@@ -1,65 +1,131 @@
 {
-  "watchlist": ["BTCUSDT"],
-  "default_timeframe": "1",
-
-  "strategy": {
-    "name": "10-Second Momentum Scalper",
-    "sources": [
-      "Price momentum — buy if last close > previous close (green candle)",
-      "RSI filter — only trade when RSI is not at an extreme (30–70 range)"
-    ],
-    "primary_timeframes": [
-      "1-minute (signal source)",
-      "10-second execution loop"
-    ]
+  "watchlist": {
+    "options_swing": ["SPY", "QQQ", "NVDA", "AAPL", "TSLA"],
+    "futures_intraday": ["CME_MINI:ES1!", "CME_MINI:NQ1!", "NYMEX:CL1!"],
+    "stocks_intraday": ["NASDAQ:NVDA", "NASDAQ:AAPL", "NASDAQ:TSLA", "AMEX:SPY"]
   },
 
-  "indicators": {
-    "rsi_14": "Momentum filter. Only trade when RSI is between 30–70 (avoid extremes).",
-    "price_momentum": "Compare last close vs previous close. Up = long signal. Down = short signal."
+  "strategies": {
+
+    "A_futures_stocks_5min": {
+      "name": "Prop Desk AMD+PBD Intraday",
+      "description": "5-minute intraday scalp on futures and stocks using AMD liquidity sweeps + FVG entries",
+      "timeframe": "5",
+      "markets": ["ES1!", "NQ1!", "NVDA", "AAPL", "SPY"],
+      "pine_script": "tradingview-strategy/pine_scripts/prop_desk_amd_pbd_v2.pine",
+
+      "session_filter": {
+        "morning": "09:30-11:30 ET",
+        "afternoon": "14:00-16:00 ET",
+        "note": "No trades outside these windows — low-liquidity AMD setups fail in dead zones"
+      },
+
+      "entry_conditions": {
+        "long": [
+          "Price is at or below Weekly Value Area Low (VAL) — PBD discount zone",
+          "B-shape forming: prior impulse down, tight bottom balance forming",
+          "25-bar accumulation box detected (range < 0.5% of price)",
+          "Liquidity sweep: wick below accumulation low, candle closes back above it",
+          "Bullish FVG forms on displacement candle (3-bar gap up)",
+          "Fast EMA (9) is above Slow EMA (21)",
+          "Volume on displacement candle >= 1.5x 20-bar average"
+        ],
+        "short": [
+          "Price is at or above Weekly Value Area High (VAH) — PBD premium zone",
+          "P-shape forming: prior impulse up, tight top balance forming",
+          "25-bar accumulation box detected (range < 0.5% of price)",
+          "Liquidity sweep: wick above accumulation high, candle closes back below it",
+          "Bearish FVG forms on displacement candle (3-bar gap down)",
+          "Fast EMA (9) is below Slow EMA (21)",
+          "Volume on displacement candle >= 1.5x 20-bar average"
+        ]
+      },
+
+      "exit_rules": [
+        "Stop loss: just beyond the manipulation wick (lowest low of 3 bars for longs, highest high for shorts)",
+        "Target: 2.5x the risk distance",
+        "No partial exits — take full target or stop",
+        "If 2 consecutive losses in a session: stop trading for the day"
+      ],
+
+      "risk_rules": [
+        "Max 1% account risk per trade",
+        "Max 2 trades per session window",
+        "Max 2 open positions at once",
+        "No trades in first 15 minutes after open (9:30-9:45 ET)",
+        "No trades after 3:45 PM ET (avoid close slippage)"
+      ]
+    },
+
+    "B_options_3week": {
+      "name": "Options Directional 3-Week",
+      "description": "Use AMD+PBD signals on the DAILY chart to pick directional options with 21 DTE",
+      "timeframe": "D",
+      "markets": ["SPY", "QQQ", "NVDA", "AAPL", "TSLA"],
+      "pine_script": "tradingview-strategy/pine_scripts/prop_desk_amd_pbd_v2.pine",
+
+      "entry_conditions": {
+        "call_buy": [
+          "Daily chart AMD long signal fires (bullSweep + bullTrend + hasBullFvg + volExpanded)",
+          "Price at or near Weekly VAL — discount zone",
+          "IV Rank below 30: buy ATM call outright",
+          "IV Rank 30-50: buy debit call spread (buy ATM, sell +2 strikes OTM)",
+          "IV Rank above 50: sell OTM put spread in same direction instead",
+          "Select delta 0.40-0.55, DTE = 21 days (3 weeks)"
+        ],
+        "put_buy": [
+          "Daily chart AMD short signal fires (bearSweep + bearTrend + hasBearFvg + volExpanded)",
+          "Price at or near Weekly VAH — premium zone",
+          "IV Rank below 30: buy ATM put outright",
+          "IV Rank 30-50: buy debit put spread (buy ATM, sell -2 strikes OTM)",
+          "IV Rank above 50: sell OTM call spread in same direction instead",
+          "Select delta 0.40-0.55, DTE = 21 days (3 weeks)"
+        ]
+      },
+
+      "exit_rules": [
+        "Primary exit: 50% profit on the option premium (e.g., paid $1.00, sell at $1.50)",
+        "Secondary exit: AMD signal invalidated — price closes back through accumulation zone",
+        "Hard stop: option loses 30% of entry premium",
+        "Time stop: exit any open option position at 7 DTE (14 days held) regardless of P&L",
+        "Never hold options through earnings unless specifically an earnings play"
+      ],
+
+      "iv_rank_guide": {
+        "below_30": "Buy debit (calls/puts) — options are cheap",
+        "30_to_50": "Use debit spreads — reduce premium exposure",
+        "above_50": "Sell credit spreads in trade direction — collect premium instead"
+      },
+
+      "risk_rules": [
+        "Max 2% account risk per options trade (options can go to zero, so smaller size)",
+        "Max 3 open options positions at once",
+        "No buying options when IV Rank > 70 — premium too expensive",
+        "No trades the day before major economic events (Fed, CPI, NFP)"
+      ]
+    }
   },
 
   "bias_criteria": {
     "bullish": [
-      "Last 1-min candle closed higher than the one before it",
-      "RSI is between 30 and 70"
+      "Fast EMA (9) is above Slow EMA (21) on the relevant timeframe",
+      "Price is at or below Weekly Value Area Low — discount zone or VAL bounce",
+      "B-shape pattern forming (bottom balance after impulse down)",
+      "Bullish AMD: liquidity sweep below accumulation + close back inside + bull FVG"
     ],
     "bearish": [
-      "Last 1-min candle closed lower than the one before it",
-      "RSI is between 30 and 70"
+      "Fast EMA (9) is below Slow EMA (21) on the relevant timeframe",
+      "Price is at or above Weekly Value Area High — premium zone or VAH rejection",
+      "P-shape pattern forming (top balance after impulse up)",
+      "Bearish AMD: liquidity sweep above accumulation + close back inside + bear FVG"
     ],
     "neutral": [
-      "RSI is above 70 (overbought — skip)",
-      "RSI is below 30 (oversold — skip)",
-      "Candle close change is less than 0.05% (chop — skip)"
+      "EMA 9 and 21 are intertwined or flat",
+      "Price is in the middle of the weekly value area (between VAL and VAH)",
+      "No clear accumulation box forming — price ranging freely",
+      "Volume is at or below the 20-bar average"
     ]
   },
 
-  "entry_rules": {
-    "long": [
-      "Last close > previous close by at least 0.05%",
-      "RSI between 30 and 70",
-      "Enter market buy immediately"
-    ],
-    "short": [
-      "Last close < previous close by at least 0.05%",
-      "RSI between 30 and 70",
-      "Enter market sell immediately"
-    ]
-  },
-
-  "exit_rules": [
-    "Exit automatically after 10 seconds (next loop tick closes previous position)",
-    "No manual exit management — pure time-based scalp"
-  ],
-
-  "risk_rules": [
-    "Fixed trade size: 1% of portfolio per trade",
-    "Maximum trade size: $3.00",
-    "Maximum 6 trades per 60-second run",
-    "No stop loss — exit is time-based at next tick",
-    "For demo purposes only — minimum BitGet order size may apply"
-  ],
-
-  "notes": "Demo strategy for YouTube video. Runs 6 trades over 60 seconds, one every 10 seconds. Signal is simple price momentum on 1-min candles with RSI sanity check."
+  "notes": "Two-strategy system. Strategy A (5-min) for futures and stocks, strict session filter 9:30-11:30 and 14:00-16:00 ET. Strategy B (daily) for options with 21 DTE. Both use AMD+PBD framework with EMA trend filter and volume expansion confirmation. Pine script v2 fixes accumulation reset bug and adds session gating."
 }

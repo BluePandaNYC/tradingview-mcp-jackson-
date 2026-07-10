@@ -3,6 +3,10 @@
  */
 import CDP from 'chrome-remote-interface';
 
+// Screener results cached for 5 minutes — data doesn't change tick-by-tick
+const SCREENER_TTL_MS = 5 * 60 * 1000;
+const screenerCache = { data: null, ts: 0 };
+
 async function getOvtlyrClient() {
   const resp = await fetch('http://localhost:9222/json/list');
   const targets = await resp.json();
@@ -111,6 +115,11 @@ export async function executeOvtlyrTool(name, input) {
       }
 
       case 'ovtlyr_screener': {
+        // Return cached result if fresh (5 min TTL)
+        if (screenerCache.data && (Date.now() - screenerCache.ts) < SCREENER_TTL_MS) {
+          return screenerCache.data + '\n[cached — refreshes every 5 min]';
+        }
+
         // Extract auth cookies directly — getCookies() works on any OVTLYR page
         // without needing Network.enable() or a page navigation.
         const cookiesResp = await client.Network.getCookies({ urls: ['https://console.ovtlyr.com'] });
@@ -232,7 +241,10 @@ export async function executeOvtlyrTool(name, input) {
           lines.push(`... and ${stocks.length - 50} more stocks`);
         }
 
-        return lines.join('\n');
+        const result = lines.join('\n');
+        screenerCache.data = result;
+        screenerCache.ts   = Date.now();
+        return result;
       }
 
       default:

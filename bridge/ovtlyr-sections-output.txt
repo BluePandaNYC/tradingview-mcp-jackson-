@@ -1,0 +1,5350 @@
+﻿
+============================================================
+SECTION: Options Contracts
+============================================================
+Section click: clicked help
+Options Contracts
+keyboard_arrow_do
+Sub-items: [
+  'Fundamentals',
+  'Position Sizing and Risk',
+  'Rolling Options',
+  'Nuance or Misc',
+  'Selling Options',
+  'Ovtlyr',
+  'Plan M',
+  'Plan SICADFU'
+]
+Sub-item click: clicked: Fundamentals
+
+--- Sub-topic: "Fundamentals" ---
+dance
+Publication Period
+Last Month
+Last 3 Months
+Last 6 Months
+Last Year
+All
+instant_mix
+Don't by the dip
+
+Every Stock Market Downturn Has This Signal 02/13/2026 - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:03:15
+
+calendar_month
+Feb 13, 2026
+3
+
+Features
+About Us
+Coverage List
+Community
+Pricing
+Affiliates
+Blog
+Roadmap
+Sitemap
+Socials
+Instagram
+Twitter
+Facebook
+
+©2025 OVTLYR. All Rights Reserved
+
+Privacy Policy
+Terms of Use
+Sub-item click: clicked: Position Sizing and Risk
+
+--- Sub-topic: "Position Sizing and Risk" ---
+ - Alpha
+Ovtlyr University - Bravo
+Stock and Options Trading Guidance
+Options Trading
+OVTLYR Training
+Publication Period
+Last Month
+Last 3 Months
+Last 6 Months
+Last Year
+All
+instant_mix
+Risk off positioning
+
+A Professional Trader's Take on the Magnificent 7 Stocks Bottoming - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:02:00
+
+calendar_month
+Feb 21, 2026
+8
+
+Average True Range ATR
+
+Protect Your Cash By Identifying Volatile Stocks - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:00:15
+
+calendar_month
+Apr 17, 2026
+3
+
+Ticker EMBJ volatility
+
+Protect Your Cash By Identifying Volatile Stocks - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:00:45
+
+calendar_month
+Apr 17, 2026
+
+Ticker LUNR volatility
+
+Protect Your Cash By Identifying Volatile Stocks - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:01:30
+
+calendar_month
+Apr 17, 2026
+
+Comparing stock price move swings
+
+Protect Your Cash By Identifying Volatile Stocks - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:01:45
+
+calendar_month
+Apr 17, 2026
+1
+
+Position sizing for volatility
+
+The Biggest Trend Trading Mistake: Ignoring Candle Timeframes 2026.03.23 - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:03:00
+
+calendar_month
+Apr 06, 2026
+
+Position sizing shares vs options contracts
+
+The Biggest Trend Trading Mistake: Ignoring Candle Timeframes 2026.03.23 - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:07:45
+
+calendar_month
+Apr 06, 2026
+
+Larger size and reduced volatility
+
+The Biggest Trend Trading Mistake: Ignoring Candle Timeframes 2026.03.23 - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:09:00
+
+calendar_month
+Apr 06, 2026
+
+Return to risk ratio
+
+Protecting Yourself from The Crash 2025.11.24 - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:21:00
+
+calendar_month
+Apr 01, 2026
+
+Reducing risk
+
+5 Stock Price Moving Average Strategies Beating Buy and Hold 2025.11.18 - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:13:00
+
+calendar_month
+Nov 18, 2025
+
+Free alpha
+
+5 Stock Price Moving Average Strategies Beating Buy and Hold 2025.11.18 - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:18:00
+
+calendar_month
+Nov 18, 2025
+
+Golden rule of leverage
+
+Which Options Trading Strategy Might Support a Small Portfolio Balance 2025.11.19 - Options Trading
+
+play_circle
+Watch Video
+-
+00:22:00
+
+calendar_month
+Nov 19, 2025
+
+Convexity and asymmetrical edge
+
+Every Stock Market Downturn Has This Signal 02/13/2026 - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:07:40
+
+calendar_month
+Feb 13, 2026
+
+Some risk is beyond your control
+
+How Do Banks Make A Return On Your Deposit? - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:17:00
+
+calendar_month
+Mar 11, 2026
+
+Trading risk first
+
+001 Start Your Stock Tend Trading Journey with Session 1 of OVTLYR Customer Launchpad 2.12.2026 - OVTLYR Training
+
+play_circle
+Watch Video
+-
+00:23:00
+
+calendar_month
+Feb 12, 2026
+
+Position sizing for volatility and ATR
+
+Every Stock Market Downturn Has This Signal 02/13/2026 - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:29:00
+
+calendar_month
+Feb 13, 2026
+
+Risk percent sizing
+
+Reduce Stock Trade Risk With this Ninja Hack - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:34:00
+
+calendar_month
+Feb 02, 2026
+
+Using stop loss
+
+Options Trading for Beginners: Total Guide with Examples! - Options Trading
+
+play_circle
+Watch Video
+-
+00:57:05
+
+calendar_month
+Nov 19, 2025
+
+Exposing yourself to more loss then can possibly be gained
+
+Increase Trading Profits Without Iron Condor - Options Trading
+
+play_circle
+Watch Video
+-
+00:01:01
+
+calendar_month
+Dec 11, 2025
+
+Position sizing for risk tolerance 6%
+
+Trading Multiple Plans Simultaneously - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:30:45
+
+calendar_month
+Dec 13, 2025
+
+Load More 
+Features
+About Us
+Coverage List
+Community
+Pricing
+Affiliates
+Blog
+Roadmap
+Sitemap
+Socials
+Instagram
+Twitter
+Facebook
+
+©2025 OVTLYR. All Rights Reserved
+
+Privacy Policy
+Terms of Use
+Sub-item click: clicked: Rolling Options
+
+--- Sub-topic: "Rolling Options" ---
+vtlyr University - Bravo
+Stock and Options Trading Guidance
+Options Trading
+OVTLYR Training
+2026 US Investing Championship Trades
+Publication Period
+Last Month
+Last 3 Months
+Last 6 Months
+Last Year
+All
+instant_mix
+Rolling vs resizing options contracts
+
+AlphaU 08 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+01:15:10
+
+calendar_month
+Jun 05, 2025
+
+Buying options contracts Brokers not allowing single trade rolling
+
+AlphaU 11 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+01:09:24
+
+calendar_month
+Jun 24, 2025
+
+Buying options contracts Rolling up and out for a credit
+
+AlphaU 11 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+01:12:19
+
+calendar_month
+Jun 24, 2025
+2
+
+Buying options contracts Rolling for a debit
+
+AlphaU 11 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+01:13:04
+
+calendar_month
+Jun 24, 2025
+
+Increase Trading Profits Without Iron Condor Rolling for a risk free trade
+
+AlphaU 12 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+00:09:14
+
+calendar_month
+Jun 26, 2025
+
+Rolling options contracts Reduce risk by rolling options contracts
+
+BravoU 15 - Ovtlyr University - Bravo
+
+play_circle
+Watch Video
+-
+00:09:00
+
+calendar_month
+Jan 22, 2026
+
+Rolling options contracts Take partial profits by rolling options contracts
+
+BravoU 15 - Ovtlyr University - Bravo
+
+play_circle
+Watch Video
+-
+00:11:30
+
+calendar_month
+Jan 22, 2026
+1
+
+Rolling options contracts Ticker VKTX options contract roll
+
+BravoU 15 - Ovtlyr University - Bravo
+
+play_circle
+Watch Video
+-
+00:13:00
+
+calendar_month
+Jan 22, 2026
+
+Rolling options contracts What is rolling and why is it performed
+
+BravoU 15 - Ovtlyr University - Bravo
+
+play_circle
+Watch Video
+-
+00:19:00
+
+calendar_month
+Jan 22, 2026
+
+Rolling options contracts Ticker NEM rolling example with leveraged investment
+
+BravoU 15 - Ovtlyr University - Bravo
+
+play_circle
+Watch Video
+-
+00:29:00
+
+calendar_month
+Jan 22, 2026
+
+Rolling options contracts Increasing the trade leverage factor
+
+BravoU 15 - Ovtlyr University - Bravo
+
+play_circle
+Watch Video
+-
+00:34:00
+
+calendar_month
+Jan 22, 2026
+
+Rolling options contracts Rolling options contracts de-risks the trade
+
+BravoU 16 - Ovtlyr University - Bravo
+
+play_circle
+Watch Video
+-
+00:00:30
+
+calendar_month
+Jan 22, 2026
+
+Rolling options contracts Review actual 2026 US Investing Championship trades
+
+BravoU 16 - Ovtlyr University - Bravo
+
+play_circle
+Watch Video
+-
+00:01:10
+
+calendar_month
+Jan 22, 2026
+
+Rolling options contracts Roll analysis for tickers KGC PPTA NEM OR
+
+BravoU 16 - Ovtlyr University - Bravo
+
+play_circle
+Watch Video
+-
+00:03:45
+
+calendar_month
+Jan 22, 2026
+
+Rolling options contracts Ticker KGC zero risk trade
+
+BravoU 16 - Ovtlyr University - Bravo
+
+play_circle
+Watch Video
+-
+00:04:30
+
+calendar_month
+Jan 22, 2026
+
+Rolling options contracts Ticker PPTA 27% risk trade
+
+BravoU 16 - Ovtlyr University - Bravo
+
+play_circle
+Watch Video
+-
+00:05:32
+
+calendar_month
+Jan 22, 2026
+
+Rolling options contracts Ticker NEM 6% risk trade
+
+BravoU 16 - Ovtlyr University - Bravo
+
+play_circle
+Watch Video
+-
+00:06:05
+
+calendar_month
+Jan 22, 2026
+
+Rolling options contracts Ticker OR 50% risk trade
+
+BravoU 16 - Ovtlyr University - Bravo
+
+play_circle
+Watch Video
+-
+00:06:20
+
+calendar_month
+Jan 22, 2026
+
+Rolling options contracts Return to risk percentage
+
+BravoU 16 - Ovtlyr University - Bravo
+
+play_circle
+Watch Video
+-
+00:07:00
+
+calendar_month
+Jan 22, 2026
+
+Rolling options contracts Minimum delta roll point
+
+BravoU 14 - Ovtlyr University - Bravo
+
+play_circle
+Watch Video
+-
+00:56:00
+
+calendar_month
+Jan 20, 2026
+1
+
+Load More 
+Features
+About Us
+Coverage List
+Community
+Pricing
+Affiliates
+Blog
+Roadmap
+Sitemap
+Socials
+Instagram
+Twitter
+Facebook
+
+©2025 OVTLYR. All Rights Reserved
+
+Privacy Policy
+Terms of Use
+Sub-item click: clicked: Nuance or Misc
+
+--- Sub-topic: "Nuance or Misc" ---
+vtlyr University - Bravo
+Stock and Options Trading Guidance
+Options Trading
+OVTLYR Training
+2026 US Investing Championship Trades
+Retired Content
+Publication Period
+Last Month
+Last 3 Months
+Last 6 Months
+Last Year
+All
+instant_mix
+Impact of market announcements Shelf offering
+
+AlphaU 12 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+00:07:54
+
+calendar_month
+Jun 26, 2025
+
+Trading foreign stocks
+
+AlphaU 08 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+01:09:25
+
+calendar_month
+Jun 05, 2025
+
+Wash sale
+
+AlphaU 12 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+00:46:55
+
+calendar_month
+Jun 26, 2025
+
+Ovtlyr Testimonials
+
+AlphaU 06 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+01:13:20
+
+calendar_month
+May 29, 2025
+
+MikeyMike's trading process
+
+AlphaU 18 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+00:02:13
+
+calendar_month
+Jul 22, 2025
+
+Location of stock screener filter worksheet
+
+AlphaU 18 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+00:44:10
+
+calendar_month
+Jul 22, 2025
+
+We Make Millionaires - Alpha Wrap Up
+
+AlphaU 21 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+
+calendar_month
+Aug 07, 2025
+
+Mark's example plan for ETF, stocks, and options
+
+BravoU 07 - Ovtlyr University - Bravo
+
+play_circle
+Watch Video
+-
+00:02:20
+
+calendar_month
+Dec 09, 2025
+
+Carol's example plan
+
+BravoU 07 - Ovtlyr University - Bravo
+
+play_circle
+Watch Video
+-
+00:16:15
+
+calendar_month
+Dec 09, 2025
+
+Carol's risk percentage
+
+BravoU 07 - Ovtlyr University - Bravo
+
+play_circle
+Watch Video
+-
+00:19:20
+
+calendar_month
+Dec 09, 2025
+
+Checking volume - money flow index indicator within TradingView
+
+BravoU 07 - Ovtlyr University - Bravo
+
+play_circle
+Watch Video
+-
+00:22:35
+
+calendar_month
+Dec 09, 2025
+
+William's example plan
+
+BravoU 07 - Ovtlyr University - Bravo
+
+play_circle
+Watch Video
+-
+00:25:35
+
+calendar_month
+Dec 09, 2025
+
+William's bid ask spread percentage
+
+BravoU 07 - Ovtlyr University - Bravo
+
+play_circle
+Watch Video
+-
+00:32:55
+
+calendar_month
+Dec 09, 2025
+
+William's risk percentage & trailing stop loss
+
+BravoU 07 - Ovtlyr University - Bravo
+
+play_circle
+Watch Video
+-
+00:37:24
+
+calendar_month
+Dec 09, 2025
+
+Unexpected trading events to account for
+
+BravoU 07 - Ovtlyr University - Bravo
+
+play_circle
+Watch Video
+-
+00:40:25
+
+calendar_month
+Dec 09, 2025
+
+Art's example plan
+
+BravoU 07 - Ovtlyr University - Bravo
+
+play_circle
+Watch Video
+-
+00:41:35
+
+calendar_month
+Dec 09, 2025
+
+The open interest debate
+
+BravoU 07 - Ovtlyr University - Bravo
+
+play_circle
+Watch Video
+-
+00:44:35
+
+calendar_month
+Dec 09, 2025
+
+Fear and greed heatmap signals
+
+BravoU 07 - Ovtlyr University - Bravo
+
+play_circle
+Watch Video
+-
+00:47:35
+
+calendar_month
+Dec 09, 2025
+
+Art's ETF rules and 10 EMA
+
+BravoU 07 - Ovtlyr University - Bravo
+
+play_circle
+Watch Video
+-
+00:54:25
+
+calendar_month
+Dec 09, 2025
+
+Accessing 2026 USIC trade history
+
+Choosing an Options Contract - Options Trading
+
+play_circle
+Watch Video
+-
+00:15:00
+
+calendar_month
+Jan 14, 2026
+
+Load More 
+Features
+About Us
+Coverage List
+Community
+Pricing
+Affiliates
+Blog
+Roadmap
+Sitemap
+Socials
+Instagram
+Twitter
+Facebook
+
+©2025 OVTLYR. All Rights Reserved
+
+Privacy Policy
+Terms of Use
+Sub-item click: clicked: Selling Options
+
+--- Sub-topic: "Selling Options" ---
+vtlyr University - Bravo
+Options Trading
+Publication Period
+Last Month
+Last 3 Months
+Last 6 Months
+Last Year
+All
+instant_mix
+Selling options contracts What is short selling
+
+AlphaU 10 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+00:07:59
+
+calendar_month
+Jun 12, 2025
+1
+
+Selling options contracts Selling option contracts
+
+AlphaU 10 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+01:03:20
+
+calendar_month
+Jun 12, 2025
+
+Selling naked options
+
+AlphaU 16 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+00:38:43
+
+calendar_month
+Jul 15, 2025
+
+Selling options contracts Iron condor
+
+AlphaU 10 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+01:10:20
+
+calendar_month
+Jun 12, 2025
+
+Selling options contracts OptionsSellers.com trading methodology
+
+AlphaU 11 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+00:08:05
+
+calendar_month
+Jun 24, 2025
+
+Selling options contracts Naked call options
+
+AlphaU 11 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+00:09:02
+
+calendar_month
+Jun 24, 2025
+
+Selling options contracts OptionsSellers.com public apology
+
+AlphaU 11 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+00:13:17
+
+calendar_month
+Jun 24, 2025
+
+Never sell options contracts
+
+BravoU 12 - Ovtlyr University - Bravo
+
+play_circle
+Watch Video
+-
+00:30:00
+
+calendar_month
+Jan 08, 2026
+
+Selling naked puts
+
+Options Trading for Beginners: Total Guide with Examples! - Options Trading
+
+play_circle
+Watch Video
+-
+00:58:13
+
+calendar_month
+Nov 19, 2025
+
+Selling options contracts
+
+Options Trading for Beginners: Total Guide with Examples! - Options Trading
+
+play_circle
+Watch Video
+-
+00:44:27
+
+calendar_month
+Nov 19, 2025
+
+Selling options contracts
+
+BravoU 16 - Ovtlyr University - Bravo
+
+play_circle
+Watch Video
+-
+00:41:15
+
+calendar_month
+Jan 22, 2026
+
+Selling options contracts
+
+BravoU 13 - Ovtlyr University - Bravo
+
+play_circle
+Watch Video
+-
+00:02:45
+
+calendar_month
+Jan 13, 2026
+
+OptionsSellers .com
+
+BravoU 13 - Ovtlyr University - Bravo
+
+play_circle
+Watch Video
+-
+00:05:30
+
+calendar_month
+Jan 13, 2026
+
+Selling options contracts
+
+BravoU 01 - Ovtlyr University - Bravo
+
+play_circle
+Watch Video
+-
+00:14:20
+
+calendar_month
+Nov 11, 2025
+
+Long Term Capital Management and Options Sellers dotcom
+
+AlphaU 17 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+00:09:50
+
+calendar_month
+Jul 17, 2025
+
+Complex spreads, iron condor, butterfly vs single leg trades
+
+AlphaU 16 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+00:44:30
+
+calendar_month
+Jul 15, 2025
+
+Selling options contracts is disastrous for retail traders
+
+$88,000 to $415,000,000? Are Options Trades Right For You? - Options Trading
+
+play_circle
+Watch Video
+-
+00:23:50
+
+calendar_month
+Dec 10, 2025
+
+Features
+About Us
+Coverage List
+Community
+Pricing
+Affiliates
+Blog
+Roadmap
+Sitemap
+Socials
+Instagram
+Twitter
+Facebook
+
+©2025 OVTLYR. All Rights Reserved
+
+Privacy Policy
+Terms of Use
+Sub-item click: clicked: Ovtlyr
+
+--- Sub-topic: "Ovtlyr" ---
+Options Trading
+Publication Period
+Last Month
+Last 3 Months
+Last 6 Months
+Last Year
+All
+instant_mix
+Ovtlyr University
+
+Welcome to Your First Bearish Trend Inside a Bull Market! - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:17:59
+
+calendar_month
+Nov 17, 2025
+3
+
+Alpha vs Bravo University
+
+$88,000 to $415,000,000? Are Options Trades Right For You? - Options Trading
+
+play_circle
+Watch Video
+-
+00:34:35
+
+calendar_month
+Dec 10, 2025
+
+Features
+About Us
+Coverage List
+Community
+Pricing
+Affiliates
+Blog
+Roadmap
+Sitemap
+Socials
+Instagram
+Twitter
+Facebook
+
+©2025 OVTLYR. All Rights Reserved
+
+Privacy Policy
+Terms of Use
+Sub-item click: clicked: Plan M
+
+--- Sub-topic: "Plan M" ---
+ey Bingo Monday
+Stock and Options Trading Guidance
+Options Trading
+OVTLYR Training
+Ovtlyr thinkorswim
+2026 US Investing Championship Trades
+Retired Content
+OVTLYR How-to Guides
+Publication Period
+Last Month
+Last 3 Months
+Last 6 Months
+Last Year
+All
+instant_mix
+Plan M sector status
+
+OVTLYR PLAN TRAINING - OVTLYR Training
+
+play_circle
+Watch Video
+-
+00:24:26
+
+calendar_month
+Oct 21, 2025
+22
+
+Live Plan M walk through with Stock Picks
+
+12.1.25 Big Money Bingo Monday - 12.1.25 Big Money Bingo Monday
+
+play_circle
+Watch Video
+-
+00:50:50
+
+calendar_month
+Dec 01, 2025
+6
+
+Plan M expectancy and backtesting
+
+Trend trading help 2025.11.07 - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:00:00
+
+calendar_month
+Nov 07, 2025
+4
+
+Live Trading Session on a Busy Trading Day - Plan M
+
+BravoU 06 - Ovtlyr University - Bravo
+
+play_circle
+Watch Video
+-
+00:41:15
+
+calendar_month
+Dec 04, 2025
+
+Plan M Market breadth
+
+Choosing a Trading Approach: Position Sizing vs YOLO - Options Trading
+
+play_circle
+Watch Video
+-
+00:12:45
+
+calendar_month
+Dec 05, 2025
+1
+
+Plan M Sector Fear and Greed heatmap
+
+Choosing a Trading Approach: Position Sizing vs YOLO - Options Trading
+
+play_circle
+Watch Video
+-
+00:13:48
+
+calendar_month
+Dec 05, 2025
+
+Plan M Sector relative greed
+
+Choosing a Trading Approach: Position Sizing vs YOLO - Options Trading
+
+play_circle
+Watch Video
+-
+00:14:06
+
+calendar_month
+Dec 05, 2025
+
+Plan M Market breadth
+
+Choosing a Trading Approach: Position Sizing vs YOLO - Options Trading
+
+play_circle
+Watch Video
+-
+00:14:41
+
+calendar_month
+Dec 05, 2025
+
+Plan M Ovtlyr donkey channels market vs sector score
+
+Choosing a Trading Approach: Position Sizing vs YOLO - Options Trading
+
+play_circle
+Watch Video
+-
+00:15:13
+
+calendar_month
+Dec 05, 2025
+
+Plan M Trading the Materials sector
+
+Choosing a Trading Approach: Position Sizing vs YOLO - Options Trading
+
+play_circle
+Watch Video
+-
+00:20:05
+
+calendar_month
+Dec 05, 2025
+
+Plan M What is Plan M
+
+Watch a pro trade stocks! - OVTLYR Training
+
+play_circle
+Watch Video
+-
+00:00:10
+
+calendar_month
+Jan 07, 2026
+3
+
+Plan M Daily signal check
+
+Watch a pro trade stocks! - OVTLYR Training
+
+play_circle
+Watch Video
+-
+00:00:42
+
+calendar_month
+Jan 07, 2026
+1
+
+Plan M Ovtlyr slide deck
+
+Watch a pro trade stocks! - OVTLYR Training
+
+play_circle
+Watch Video
+-
+00:01:22
+
+calendar_month
+Jan 07, 2026
+1
+
+Plan M SPY trend and Ovtlyr signal
+
+Watch a pro trade stocks! - OVTLYR Training
+
+play_circle
+Watch Video
+-
+00:01:49
+
+calendar_month
+Jan 07, 2026
+
+Plan M SPY Fear and Greed heatmap value
+
+Watch a pro trade stocks! - OVTLYR Training
+
+play_circle
+Watch Video
+-
+00:02:45
+
+calendar_month
+Jan 07, 2026
+
+Plan M SPY Fear and Greed trend rising vs falling
+
+Watch a pro trade stocks! - OVTLYR Training
+
+play_circle
+Watch Video
+-
+00:03:20
+
+calendar_month
+Jan 07, 2026
+
+Plan M Full stocks market breadth
+
+Watch a pro trade stocks! - OVTLYR Training
+
+play_circle
+Watch Video
+-
+00:04:00
+
+calendar_month
+Jan 07, 2026
+
+Plan M Zoom in on the market breadth trend
+
+Watch a pro trade stocks! - OVTLYR Training
+
+play_circle
+Watch Video
+-
+00:04:28
+
+calendar_month
+Jan 07, 2026
+
+Plan M Market breadth trend weak vs strong
+
+Watch a pro trade stocks! - OVTLYR Training
+
+play_circle
+Watch Video
+-
+00:04:45
+
+calendar_month
+Jan 07, 2026
+
+Plan M What to do if the signals are setting up and close
+
+Watch a pro trade stocks! - OVTLYR Training
+
+play_circle
+Watch Video
+-
+00:06:25
+
+calendar_month
+Jan 07, 2026
+
+Load More 
+Features
+About Us
+Coverage List
+Community
+Pricing
+Affiliates
+Blog
+Roadmap
+Sitemap
+Socials
+Instagram
+Twitter
+Facebook
+
+©2025 OVTLYR. All Rights Reserved
+
+Privacy Policy
+Terms of Use
+Sub-item click: clicked: Plan SICADFU
+
+--- Sub-topic: "Plan SICADFU" ---
+iversity - Bravo
+Stock and Options Trading Guidance
+Options Trading
+OVTLYR Training
+2026 US Investing Championship Trades
+Retired Content
+Publication Period
+Last Month
+Last 3 Months
+Last 6 Months
+Last Year
+All
+instant_mix
+How does SGOV work
+
+AlphaU 07 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+01:22:37
+
+calendar_month
+Jun 03, 2025
+1
+
+SGOV December dividends
+
+BravoU 09 - Ovtlyr University - Bravo
+
+play_circle
+Watch Video
+-
+00:00:00
+
+calendar_month
+Dec 16, 2025
+
+Execute Plan SICADFU & SGOV
+
+Follow The Exit Signal and Roll The Winners - OVTLYR Training
+
+play_circle
+Watch Video
+-
+00:10:00
+
+calendar_month
+Nov 07, 2025
+1
+
+Why SGOV?
+
+AlphaU 15 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+00:38:15
+
+calendar_month
+Jul 10, 2025
+
+Why does SGOV drop?
+
+AlphaU 15 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+00:40:44
+
+calendar_month
+Jul 10, 2025
+
+SICADFU SGOV
+
+Options Trading for Beginners: Total Guide with Examples! - Options Trading
+
+play_circle
+Watch Video
+-
+00:35:10
+
+calendar_month
+Nov 19, 2025
+2
+
+SGOV shares vs options contracts
+
+Options Trading for Beginners: Total Guide with Examples! - Options Trading
+
+play_circle
+Watch Video
+-
+00:39:26
+
+calendar_month
+Nov 19, 2025
+
+Plan SICADFU SGOV December annual dip
+
+Choosing a Trading Approach: Position Sizing vs YOLO - Options Trading
+
+play_circle
+Watch Video
+-
+00:07:20
+
+calendar_month
+Dec 05, 2025
+
+SGOV
+
+Protect Your Portfolio During a Bearish Trend - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:22:20
+
+calendar_month
+Nov 21, 2025
+
+Buying SGOV
+
+Trading Multiple Plans Simultaneously - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:46:18
+
+calendar_month
+Dec 13, 2025
+
+Plan SICADFU 2026 US Investing Championship Plan SICADFU
+
+USIC001 Watch a pro trade in the 2026 US Investing Championship! 1/2/2026 - 2026 US Investing Championship Trades
+
+play_circle
+Watch Video
+-
+00:02:50
+
+calendar_month
+Jan 02, 2026
+
+Plan SICADFU 2026 US Investing Championship Plan SICADFU dividend
+
+USIC001 Watch a pro trade in the 2026 US Investing Championship! 1/2/2026 - 2026 US Investing Championship Trades
+
+play_circle
+Watch Video
+-
+00:03:05
+
+calendar_month
+Jan 02, 2026
+
+Plan SICADFU Trade 1 Plan SICADFU SGOV review
+
+USIC002 Watch a pro trade in the 2026 US Investing Championship! 1/6/2026 - 2026 US Investing Championship Trades
+
+play_circle
+Watch Video
+-
+00:00:45
+
+calendar_month
+Jan 06, 2026
+
+Plan SICADFU Trade 1 Plan SICADFU SGOV review
+
+USIC002 Watch a pro trade in the 2026 US Investing Championship! 1/6/2026 - 2026 US Investing Championship Trades
+
+play_circle
+Watch Video
+-
+00:04:30
+
+calendar_month
+Jan 06, 2026
+1
+
+Plan SICADFU SGOV trade order history
+
+USIC002 Watch a pro trade in the 2026 US Investing Championship! 1/6/2026 - 2026 US Investing Championship Trades
+
+play_circle
+Watch Video
+-
+00:05:15
+
+calendar_month
+Jan 06, 2026
+
+Plan SICADFU Plan SICADFU SGOV Buy to Open
+
+USIC010 Will a Crashing Market Wipe Existing Ovtlyr 2026 US Investing Championship Trades 1/20/2026 - 2026 US Investing Championship Trades
+
+play_circle
+Watch Video
+-
+00:19:10
+
+calendar_month
+Jan 22, 2026
+
+Plan SICADFU SGOV Buy to Open
+
+USIC012 Rolling the Actual Ovtlyr 2026 US Investing Championship Trades 1/22/2026 - 2026 US Investing Championship Trades
+
+play_circle
+Watch Video
+-
+00:15:30
+
+calendar_month
+Jan 22, 2026
+
+Plan SICADFU Plan SICADFU entry
+
+USIC013 Removing Excuses Ovtlyr 2026 US Investing Championship Trades 1/23/2026 - 2026 US Investing Championship Trades
+
+play_circle
+Watch Video
+-
+00:27:50
+
+calendar_month
+Jan 22, 2026
+
+Plan SICADFU Ticker SGOV position sizing
+
+USIC013 Removing Excuses Ovtlyr 2026 US Investing Championship Trades 1/23/2026 - 2026 US Investing Championship Trades
+
+play_circle
+Watch Video
+-
+00:28:05
+
+calendar_month
+Jan 22, 2026
+
+Plan SICADFU Ticker SGOV Portfolio Manager mark to market
+
+USIC013 Removing Excuses Ovtlyr 2026 US Investing Championship Trades 1/23/2026 - 2026 US Investing Championship Trades
+
+play_circle
+Watch Video
+-
+00:40:05
+
+calendar_month
+Jan 22, 2026
+
+Load More 
+Features
+About Us
+Coverage List
+Community
+Pricing
+Affiliates
+Blog
+Roadmap
+Sitemap
+Socials
+Instagram
+Twitter
+Facebook
+
+©2025 OVTLYR. All Rights Reserved
+
+Privacy Policy
+Terms of Use
+
+============================================================
+SECTION: Charting
+============================================================
+Section click: clicked help
+Charting
+keyboard_arrow_down
+Sub-items: [ 'TradingView', 'Position Sizing and Risk', 'Fundamentals' ]
+Sub-item click: clicked: TradingView
+
+--- Sub-topic: "TradingView" ---
+mer Orientation
+Publication Period
+Last Month
+Last 3 Months
+Last 6 Months
+Last Year
+All
+instant_mix
+Importing TradingView scripts through Favorites
+
+Protect Your Portfolio During a Bearish Trend - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:02:49
+
+calendar_month
+Nov 21, 2025
+8
+
+Accessing TradingView indicators
+
+Reduce Stock Trade Risk With this Ninja Hack - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:30:00
+
+calendar_month
+Feb 02, 2026
+4
+
+Chris' DeepThought indicator settings
+
+Reduce Stock Trade Risk With this Ninja Hack - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:31:00
+
+calendar_month
+Feb 02, 2026
+1
+
+TradingView Average True Range ATR indicator
+
+Reduce Stock Trade Risk With this Ninja Hack - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:31:30
+
+calendar_month
+Feb 02, 2026
+1
+
+Marking charts for ATR signals on TradingView
+
+004 Locating Stock Trend Trading Resources in Session 4 of OVTLYR Launchpad 2026.04.23 - Ovtlyr New Customer Orientation
+
+play_circle
+Watch Video
+-
+00:11:00
+
+calendar_month
+Apr 26, 2026
+
+Gann box
+
+004 Locating Stock Trend Trading Resources in Session 4 of OVTLYR Launchpad 2026.04.23 - Ovtlyr New Customer Orientation
+
+play_circle
+Watch Video
+-
+00:21:15
+
+calendar_month
+Apr 26, 2026
+
+DeepThought indicator settings
+
+004 Locating Stock Trend Trading Resources in Session 4 of OVTLYR Launchpad 2026.04.23 - Ovtlyr New Customer Orientation
+
+play_circle
+Watch Video
+-
+00:23:00
+
+calendar_month
+Apr 26, 2026
+
+TradingView daily ATR indicator
+
+USIC033 Your Trading Questions Answered - Ovtlyr 2026 US Investing Championship Trades 04/22/2026 - 2026 US Investing Championship Trades
+
+play_circle
+Watch Video
+-
+00:32:45
+
+calendar_month
+Apr 24, 2026
+
+Reviewing ticker BX
+
+USIC034 Reducing Risk and Taking Profits - Ovtlyr 2026 US Investing Championship Trades 04/23/2026 - 2026 US Investing Championship Trades
+
+play_circle
+Watch Video
+-
+00:01:45
+
+calendar_month
+Apr 25, 2026
+
+Reviewing ticker TXN
+
+USIC034 Reducing Risk and Taking Profits - Ovtlyr 2026 US Investing Championship Trades 04/23/2026 - 2026 US Investing Championship Trades
+
+play_circle
+Watch Video
+-
+00:02:45
+
+calendar_month
+Apr 25, 2026
+
+Reviewing ticker NFLX
+
+USIC034 Reducing Risk and Taking Profits - Ovtlyr 2026 US Investing Championship Trades 04/23/2026 - 2026 US Investing Championship Trades
+
+play_circle
+Watch Video
+-
+00:03:15
+
+calendar_month
+Apr 25, 2026
+
+Reviewing ticker MRVL
+
+004 Locating Stock Trend Trading Resources in Session 4 of OVTLYR Launchpad 2026.04.23 - Ovtlyr New Customer Orientation
+
+play_circle
+Watch Video
+-
+00:32:00
+
+calendar_month
+Apr 26, 2026
+
+Order blocks are not appearing in thinkorswim, Ovtlyr, or Tradingview
+
+004 Locating Stock Trend Trading Resources in Session 4 of OVTLYR Launchpad 2026.04.23 - Ovtlyr New Customer Orientation
+
+play_circle
+Watch Video
+-
+00:34:00
+
+calendar_month
+Apr 26, 2026
+
+Reviewing ticker MRVL
+
+004 Locating Stock Trend Trading Resources in Session 4 of OVTLYR Launchpad 2026.04.23 - Ovtlyr New Customer Orientation
+
+play_circle
+Watch Video
+-
+00:36:00
+
+calendar_month
+Apr 26, 2026
+
+Features
+About Us
+Coverage List
+Community
+Pricing
+Affiliates
+Blog
+Roadmap
+Sitemap
+Socials
+Instagram
+Twitter
+Facebook
+
+©2025 OVTLYR. All Rights Reserved
+
+Privacy Policy
+Terms of Use
+Sub-item click: clicked: Position Sizing and Risk
+
+--- Sub-topic: "Position Sizing and Risk" ---
+uidance
+Options Trading
+OVTLYR Training
+Publication Period
+Last Month
+Last 3 Months
+Last 6 Months
+Last Year
+All
+instant_mix
+Risk off positioning
+
+A Professional Trader's Take on the Magnificent 7 Stocks Bottoming - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:02:00
+
+calendar_month
+Feb 21, 2026
+8
+
+Average True Range ATR
+
+Protect Your Cash By Identifying Volatile Stocks - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:00:15
+
+calendar_month
+Apr 17, 2026
+3
+
+Ticker EMBJ volatility
+
+Protect Your Cash By Identifying Volatile Stocks - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:00:45
+
+calendar_month
+Apr 17, 2026
+
+Ticker LUNR volatility
+
+Protect Your Cash By Identifying Volatile Stocks - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:01:30
+
+calendar_month
+Apr 17, 2026
+
+Comparing stock price move swings
+
+Protect Your Cash By Identifying Volatile Stocks - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:01:45
+
+calendar_month
+Apr 17, 2026
+1
+
+Position sizing for volatility
+
+The Biggest Trend Trading Mistake: Ignoring Candle Timeframes 2026.03.23 - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:03:00
+
+calendar_month
+Apr 06, 2026
+
+Position sizing shares vs options contracts
+
+The Biggest Trend Trading Mistake: Ignoring Candle Timeframes 2026.03.23 - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:07:45
+
+calendar_month
+Apr 06, 2026
+
+Larger size and reduced volatility
+
+The Biggest Trend Trading Mistake: Ignoring Candle Timeframes 2026.03.23 - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:09:00
+
+calendar_month
+Apr 06, 2026
+
+Return to risk ratio
+
+Protecting Yourself from The Crash 2025.11.24 - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:21:00
+
+calendar_month
+Apr 01, 2026
+
+Reducing risk
+
+5 Stock Price Moving Average Strategies Beating Buy and Hold 2025.11.18 - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:13:00
+
+calendar_month
+Nov 18, 2025
+
+Free alpha
+
+5 Stock Price Moving Average Strategies Beating Buy and Hold 2025.11.18 - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:18:00
+
+calendar_month
+Nov 18, 2025
+
+Golden rule of leverage
+
+Which Options Trading Strategy Might Support a Small Portfolio Balance 2025.11.19 - Options Trading
+
+play_circle
+Watch Video
+-
+00:22:00
+
+calendar_month
+Nov 19, 2025
+
+Convexity and asymmetrical edge
+
+Every Stock Market Downturn Has This Signal 02/13/2026 - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:07:40
+
+calendar_month
+Feb 13, 2026
+
+Some risk is beyond your control
+
+How Do Banks Make A Return On Your Deposit? - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:17:00
+
+calendar_month
+Mar 11, 2026
+
+Trading risk first
+
+001 Start Your Stock Tend Trading Journey with Session 1 of OVTLYR Customer Launchpad 2.12.2026 - OVTLYR Training
+
+play_circle
+Watch Video
+-
+00:23:00
+
+calendar_month
+Feb 12, 2026
+
+Position sizing for volatility and ATR
+
+Every Stock Market Downturn Has This Signal 02/13/2026 - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:29:00
+
+calendar_month
+Feb 13, 2026
+
+Risk percent sizing
+
+Reduce Stock Trade Risk With this Ninja Hack - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:34:00
+
+calendar_month
+Feb 02, 2026
+
+Using stop loss
+
+Options Trading for Beginners: Total Guide with Examples! - Options Trading
+
+play_circle
+Watch Video
+-
+00:57:05
+
+calendar_month
+Nov 19, 2025
+
+Exposing yourself to more loss then can possibly be gained
+
+Increase Trading Profits Without Iron Condor - Options Trading
+
+play_circle
+Watch Video
+-
+00:01:01
+
+calendar_month
+Dec 11, 2025
+
+Position sizing for risk tolerance 6%
+
+Trading Multiple Plans Simultaneously - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:30:45
+
+calendar_month
+Dec 13, 2025
+
+Load More 
+Features
+About Us
+Coverage List
+Community
+Pricing
+Affiliates
+Blog
+Roadmap
+Sitemap
+Socials
+Instagram
+Twitter
+Facebook
+
+©2025 OVTLYR. All Rights Reserved
+
+Privacy Policy
+Terms of Use
+Sub-item click: clicked: Fundamentals
+
+--- Sub-topic: "Fundamentals" ---
+s
+Last Year
+All
+instant_mix
+Don't by the dip
+
+Every Stock Market Downturn Has This Signal 02/13/2026 - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:03:15
+
+calendar_month
+Feb 13, 2026
+3
+
+Features
+About Us
+Coverage List
+Community
+Pricing
+Affiliates
+Blog
+Roadmap
+Sitemap
+Socials
+Instagram
+Twitter
+Facebook
+
+©2025 OVTLYR. All Rights Reserved
+
+Privacy Policy
+Terms of Use
+
+============================================================
+SECTION: Building Your Plan
+============================================================
+Section click: clicked help
+Building Your Plan
+keyboard_arrow_d
+Sub-items: [
+  'Fundamentals',
+  'Backtesting and Expectancy',
+  'Nuance or Misc',
+  'Position Sizing and Risk',
+  'Ovtlyr',
+  'Books'
+]
+Sub-item click: clicked: Fundamentals
+
+--- Sub-topic: "Fundamentals" ---
+eriod
+Last Month
+Last 3 Months
+Last 6 Months
+Last Year
+All
+instant_mix
+Don't by the dip
+
+Every Stock Market Downturn Has This Signal 02/13/2026 - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:03:15
+
+calendar_month
+Feb 13, 2026
+3
+
+Features
+About Us
+Coverage List
+Community
+Pricing
+Affiliates
+Blog
+Roadmap
+Sitemap
+Socials
+Instagram
+Twitter
+Facebook
+
+©2025 OVTLYR. All Rights Reserved
+
+Privacy Policy
+Terms of Use
+Sub-item click: clicked: Backtesting and Expectancy
+
+--- Sub-topic: "Backtesting and Expectancy" ---
+niversity - Bravo
+Stock and Options Trading Guidance
+Options Trading
+OVTLYR Training
+2026 US Investing Championship Trades
+Trading Psychology
+Retired Content
+Publication Period
+Last Month
+Last 3 Months
+Last 6 Months
+Last Year
+All
+instant_mix
+Trade frequency
+
+USIC024 Collect Profit Waiting for a Stock Setup - Ovtlyr 2026 US Investing Championship Trades 04/01/2026 - 2026 US Investing Championship Trades
+
+play_circle
+Watch Video
+-
+00:03:00
+
+calendar_month
+Apr 08, 2026
+3
+
+Avoiding the Healthcare sector
+
+Improving Success by Avoiding Healthcare Stocks 2026/02/10 - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:13:00
+
+calendar_month
+May 10, 2026
+2
+
+Winners vs losers in professional trading
+
+USIC042 Emotions of Winning vs Losing - Ovtlyr 2026 US Investing Championship Trades 05/05/2026 - 2026 US Investing Championship Trades
+
+play_circle
+Watch Video
+-
+00:11:15
+
+calendar_month
+May 08, 2026
+
+Sample size and frequency
+
+USIC042 Emotions of Winning vs Losing - Ovtlyr 2026 US Investing Championship Trades 05/05/2026 - 2026 US Investing Championship Trades
+
+play_circle
+Watch Video
+-
+00:12:00
+
+calendar_month
+May 08, 2026
+
+Win rate, frequency, and expectancy
+
+What Can We Learn From Stock Market Tops? - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:17:00
+
+calendar_month
+Nov 14, 2025
+
+Expectancy and frequency
+
+USIC018 Does Crypto Support Trend Trading - Ovtlyr 2026 US Investing Championship Trades 02/02/2026 - 2026 US Investing Championship Trades
+
+play_circle
+Watch Video
+-
+00:38:00
+
+calendar_month
+Feb 02, 2026
+
+Backtesting reduced positions
+
+Which OVTLYR Plan Works in Stock Market Chop - 02/09/2026 - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:25:00
+
+calendar_month
+Feb 09, 2026
+
+Backtesting trade price increase & ATR position reduction theory
+
+USIC019 Crash Anticipation v Trend Trading - Ovtlyr 2026 US Investing Championship Trades 2/04/2026 - 2026 US Investing Championship Trades
+
+play_circle
+Watch Video
+-
+00:26:00
+
+calendar_month
+Feb 04, 2026
+
+Accessing the backtesting data
+
+USIC019 Crash Anticipation v Trend Trading - Ovtlyr 2026 US Investing Championship Trades 2/04/2026 - 2026 US Investing Championship Trades
+
+play_circle
+Watch Video
+-
+00:32:30
+
+calendar_month
+Feb 04, 2026
+
+Continually improving your plan
+
+USIC019 Crash Anticipation v Trend Trading - Ovtlyr 2026 US Investing Championship Trades 2/04/2026 - 2026 US Investing Championship Trades
+
+play_circle
+Watch Video
+-
+00:32:45
+
+calendar_month
+Feb 04, 2026
+
+Plan M Trading through earnings
+
+(Superseded) Locate Potential Stock Trades With OVTLYR Screener - Retired Content
+
+play_circle
+Watch Video
+-
+00:44:15
+
+calendar_month
+Feb 20, 2026
+
+Backtesting trade price increase & ATR position reduction theory
+
+How to Avoid False Breakouts My Stock Trend Trading Technique - 02/09/2026 - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:20:30
+
+calendar_month
+Feb 03, 2026
+
+Every plan will have losing trades
+
+Reduce Stock Trade Risk With this Ninja Hack - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:06:00
+
+calendar_month
+Feb 02, 2026
+
+Plan M backtesting money and expectancy
+
+Common stock trading mistakes that reduce profits - Trading Psychology
+
+play_circle
+Watch Video
+-
+00:12:45
+
+calendar_month
+Feb 02, 2026
+
+Frequency and expectancy
+
+Implement Stock Trading Plans Steps to Simplify Your Process 2/2/2026 - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:34:00
+
+calendar_month
+Feb 02, 2026
+
+Calculating outcome
+
+Implement Stock Trading Plans Steps to Simplify Your Process 2/2/2026 - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:34:15
+
+calendar_month
+Feb 02, 2026
+
+Why most profitable backtests fail in live trading
+
+USIC014 Is Following Fundamentals Profitable? Ovtlyr 2026 US Investing Championship Trades 1/26/2026 - 2026 US Investing Championship Trades
+
+play_circle
+Watch Video
+-
+00:23:00
+
+calendar_month
+Jan 22, 2026
+
+Your plan must have an expectancy edge
+
+USIC014 Is Following Fundamentals Profitable? Ovtlyr 2026 US Investing Championship Trades 1/26/2026 - 2026 US Investing Championship Trades
+
+play_circle
+Watch Video
+-
+00:26:00
+
+calendar_month
+Jan 22, 2026
+
+When to backtest trades
+
+USIC014 Is Following Fundamentals Profitable? Ovtlyr 2026 US Investing Championship Trades 1/26/2026 - 2026 US Investing Championship Trades
+
+play_circle
+Watch Video
+-
+00:20:00
+
+calendar_month
+Jan 22, 2026
+
+Expectancy quarter analogy
+
+Implement Stock Trading Plans Steps to Simplify Your Process 2/2/2026 - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:24:00
+
+calendar_month
+Feb 02, 2026
+
+Load More 
+Features
+About Us
+Coverage List
+Community
+Pricing
+Affiliates
+Blog
+Roadmap
+Sitemap
+Socials
+Instagram
+Twitter
+Facebook
+
+©2025 OVTLYR. All Rights Reserved
+
+Privacy Policy
+Terms of Use
+Sub-item click: clicked: Nuance or Misc
+
+--- Sub-topic: "Nuance or Misc" ---
+Bravo
+Stock and Options Trading Guidance
+Options Trading
+OVTLYR Training
+2026 US Investing Championship Trades
+Retired Content
+Publication Period
+Last Month
+Last 3 Months
+Last 6 Months
+Last Year
+All
+instant_mix
+Impact of market announcements Shelf offering
+
+AlphaU 12 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+00:07:54
+
+calendar_month
+Jun 26, 2025
+
+Trading foreign stocks
+
+AlphaU 08 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+01:09:25
+
+calendar_month
+Jun 05, 2025
+
+Wash sale
+
+AlphaU 12 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+00:46:55
+
+calendar_month
+Jun 26, 2025
+
+Ovtlyr Testimonials
+
+AlphaU 06 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+01:13:20
+
+calendar_month
+May 29, 2025
+
+MikeyMike's trading process
+
+AlphaU 18 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+00:02:13
+
+calendar_month
+Jul 22, 2025
+
+Location of stock screener filter worksheet
+
+AlphaU 18 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+00:44:10
+
+calendar_month
+Jul 22, 2025
+
+We Make Millionaires - Alpha Wrap Up
+
+AlphaU 21 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+
+calendar_month
+Aug 07, 2025
+
+Mark's example plan for ETF, stocks, and options
+
+BravoU 07 - Ovtlyr University - Bravo
+
+play_circle
+Watch Video
+-
+00:02:20
+
+calendar_month
+Dec 09, 2025
+
+Carol's example plan
+
+BravoU 07 - Ovtlyr University - Bravo
+
+play_circle
+Watch Video
+-
+00:16:15
+
+calendar_month
+Dec 09, 2025
+
+Carol's risk percentage
+
+BravoU 07 - Ovtlyr University - Bravo
+
+play_circle
+Watch Video
+-
+00:19:20
+
+calendar_month
+Dec 09, 2025
+
+Checking volume - money flow index indicator within TradingView
+
+BravoU 07 - Ovtlyr University - Bravo
+
+play_circle
+Watch Video
+-
+00:22:35
+
+calendar_month
+Dec 09, 2025
+
+William's example plan
+
+BravoU 07 - Ovtlyr University - Bravo
+
+play_circle
+Watch Video
+-
+00:25:35
+
+calendar_month
+Dec 09, 2025
+
+William's bid ask spread percentage
+
+BravoU 07 - Ovtlyr University - Bravo
+
+play_circle
+Watch Video
+-
+00:32:55
+
+calendar_month
+Dec 09, 2025
+
+William's risk percentage & trailing stop loss
+
+BravoU 07 - Ovtlyr University - Bravo
+
+play_circle
+Watch Video
+-
+00:37:24
+
+calendar_month
+Dec 09, 2025
+
+Unexpected trading events to account for
+
+BravoU 07 - Ovtlyr University - Bravo
+
+play_circle
+Watch Video
+-
+00:40:25
+
+calendar_month
+Dec 09, 2025
+
+Art's example plan
+
+BravoU 07 - Ovtlyr University - Bravo
+
+play_circle
+Watch Video
+-
+00:41:35
+
+calendar_month
+Dec 09, 2025
+
+The open interest debate
+
+BravoU 07 - Ovtlyr University - Bravo
+
+play_circle
+Watch Video
+-
+00:44:35
+
+calendar_month
+Dec 09, 2025
+
+Fear and greed heatmap signals
+
+BravoU 07 - Ovtlyr University - Bravo
+
+play_circle
+Watch Video
+-
+00:47:35
+
+calendar_month
+Dec 09, 2025
+
+Art's ETF rules and 10 EMA
+
+BravoU 07 - Ovtlyr University - Bravo
+
+play_circle
+Watch Video
+-
+00:54:25
+
+calendar_month
+Dec 09, 2025
+
+Accessing 2026 USIC trade history
+
+Choosing an Options Contract - Options Trading
+
+play_circle
+Watch Video
+-
+00:15:00
+
+calendar_month
+Jan 14, 2026
+
+Load More 
+Features
+About Us
+Coverage List
+Community
+Pricing
+Affiliates
+Blog
+Roadmap
+Sitemap
+Socials
+Instagram
+Twitter
+Facebook
+
+©2025 OVTLYR. All Rights Reserved
+
+Privacy Policy
+Terms of Use
+Sub-item click: clicked: Position Sizing and Risk
+
+--- Sub-topic: "Position Sizing and Risk" ---
+versity - Bravo
+Stock and Options Trading Guidance
+Options Trading
+OVTLYR Training
+Publication Period
+Last Month
+Last 3 Months
+Last 6 Months
+Last Year
+All
+instant_mix
+Risk off positioning
+
+A Professional Trader's Take on the Magnificent 7 Stocks Bottoming - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:02:00
+
+calendar_month
+Feb 21, 2026
+8
+
+Average True Range ATR
+
+Protect Your Cash By Identifying Volatile Stocks - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:00:15
+
+calendar_month
+Apr 17, 2026
+3
+
+Ticker EMBJ volatility
+
+Protect Your Cash By Identifying Volatile Stocks - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:00:45
+
+calendar_month
+Apr 17, 2026
+
+Ticker LUNR volatility
+
+Protect Your Cash By Identifying Volatile Stocks - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:01:30
+
+calendar_month
+Apr 17, 2026
+
+Comparing stock price move swings
+
+Protect Your Cash By Identifying Volatile Stocks - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:01:45
+
+calendar_month
+Apr 17, 2026
+1
+
+Position sizing for volatility
+
+The Biggest Trend Trading Mistake: Ignoring Candle Timeframes 2026.03.23 - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:03:00
+
+calendar_month
+Apr 06, 2026
+
+Position sizing shares vs options contracts
+
+The Biggest Trend Trading Mistake: Ignoring Candle Timeframes 2026.03.23 - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:07:45
+
+calendar_month
+Apr 06, 2026
+
+Larger size and reduced volatility
+
+The Biggest Trend Trading Mistake: Ignoring Candle Timeframes 2026.03.23 - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:09:00
+
+calendar_month
+Apr 06, 2026
+
+Return to risk ratio
+
+Protecting Yourself from The Crash 2025.11.24 - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:21:00
+
+calendar_month
+Apr 01, 2026
+
+Reducing risk
+
+5 Stock Price Moving Average Strategies Beating Buy and Hold 2025.11.18 - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:13:00
+
+calendar_month
+Nov 18, 2025
+
+Free alpha
+
+5 Stock Price Moving Average Strategies Beating Buy and Hold 2025.11.18 - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:18:00
+
+calendar_month
+Nov 18, 2025
+
+Golden rule of leverage
+
+Which Options Trading Strategy Might Support a Small Portfolio Balance 2025.11.19 - Options Trading
+
+play_circle
+Watch Video
+-
+00:22:00
+
+calendar_month
+Nov 19, 2025
+
+Convexity and asymmetrical edge
+
+Every Stock Market Downturn Has This Signal 02/13/2026 - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:07:40
+
+calendar_month
+Feb 13, 2026
+
+Some risk is beyond your control
+
+How Do Banks Make A Return On Your Deposit? - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:17:00
+
+calendar_month
+Mar 11, 2026
+
+Trading risk first
+
+001 Start Your Stock Tend Trading Journey with Session 1 of OVTLYR Customer Launchpad 2.12.2026 - OVTLYR Training
+
+play_circle
+Watch Video
+-
+00:23:00
+
+calendar_month
+Feb 12, 2026
+
+Position sizing for volatility and ATR
+
+Every Stock Market Downturn Has This Signal 02/13/2026 - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:29:00
+
+calendar_month
+Feb 13, 2026
+
+Risk percent sizing
+
+Reduce Stock Trade Risk With this Ninja Hack - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:34:00
+
+calendar_month
+Feb 02, 2026
+
+Using stop loss
+
+Options Trading for Beginners: Total Guide with Examples! - Options Trading
+
+play_circle
+Watch Video
+-
+00:57:05
+
+calendar_month
+Nov 19, 2025
+
+Exposing yourself to more loss then can possibly be gained
+
+Increase Trading Profits Without Iron Condor - Options Trading
+
+play_circle
+Watch Video
+-
+00:01:01
+
+calendar_month
+Dec 11, 2025
+
+Position sizing for risk tolerance 6%
+
+Trading Multiple Plans Simultaneously - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:30:45
+
+calendar_month
+Dec 13, 2025
+
+Load More 
+Features
+About Us
+Coverage List
+Community
+Pricing
+Affiliates
+Blog
+Roadmap
+Sitemap
+Socials
+Instagram
+Twitter
+Facebook
+
+©2025 OVTLYR. All Rights Reserved
+
+Privacy Policy
+Terms of Use
+Sub-item click: clicked: Ovtlyr
+
+--- Sub-topic: "Ovtlyr" ---
+lication Period
+Last Month
+Last 3 Months
+Last 6 Months
+Last Year
+All
+instant_mix
+Ovtlyr University
+
+Welcome to Your First Bearish Trend Inside a Bull Market! - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:17:59
+
+calendar_month
+Nov 17, 2025
+3
+
+Alpha vs Bravo University
+
+$88,000 to $415,000,000? Are Options Trades Right For You? - Options Trading
+
+play_circle
+Watch Video
+-
+00:34:35
+
+calendar_month
+Dec 10, 2025
+
+Features
+About Us
+Coverage List
+Community
+Pricing
+Affiliates
+Blog
+Roadmap
+Sitemap
+Socials
+Instagram
+Twitter
+Facebook
+
+©2025 OVTLYR. All Rights Reserved
+
+Privacy Policy
+Terms of Use
+Sub-item click: clicked: Books
+
+--- Sub-topic: "Books" ---
+d
+Last Month
+Last 3 Months
+Last 6 Months
+Last Year
+All
+instant_mix
+Trading in the Zone by Mark Douglas
+
+USIC030 Excitement & Euphoria of Winning - Ovtlyr 2026 US Investing Championship Trades 04/17/2026 - 2026 US Investing Championship Trades
+
+play_circle
+Watch Video
+-
+00:02:45
+
+calendar_month
+Apr 21, 2026
+4
+
+Features
+About Us
+Coverage List
+Community
+Pricing
+Affiliates
+Blog
+Roadmap
+Sitemap
+Socials
+Instagram
+Twitter
+Facebook
+
+©2025 OVTLYR. All Rights Reserved
+
+Privacy Policy
+Terms of Use
+
+============================================================
+SECTION: Application Interface
+============================================================
+Section click: clicked help
+Application Interface
+keyboard_arro
+Sub-items: [
+  'Tradier',
+  'Portfolio Manager',
+  'Ovtlyr',
+  'thinkorswim',
+  'Discord',
+  'Ovtlyr Training with Joe',
+  'TradingView',
+  'Nuance or Misc',
+  'Fundamentals'
+]
+Sub-item click: clicked: Tradier
+
+--- Sub-topic: "Tradier" ---
+
+Ovtlyr University - Bravo
+Stock and Options Trading Guidance
+Options Trading
+OVTLYR Training
+2026 US Investing Championship Trades
+Publication Period
+Last Month
+Last 3 Months
+Last 6 Months
+Last Year
+All
+instant_mix
+Week 1 live trade
+
+BravoU 02 - Ovtlyr University - Bravo
+
+play_circle
+Watch Video
+-
+00:01:11
+
+calendar_month
+Nov 13, 2025
+
+How to Buy a Stock Automatic stop loss
+
+AlphaU 14 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+00:05:35
+
+calendar_month
+Jul 08, 2025
+4
+
+How to Buy a Stock Tradier paper trading
+
+AlphaU 14 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+00:12:50
+
+calendar_month
+Jul 08, 2025
+
+How to Buy a Stock Buy to Open limit vs market order
+
+AlphaU 14 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+00:14:48
+
+calendar_month
+Jul 08, 2025
+
+How to Buy a Stock Sell to Close shares
+
+AlphaU 14 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+00:17:55
+
+calendar_month
+Jul 07, 2025
+
+How to Buy a Stock Open interest
+
+AlphaU 14 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+00:21:19
+
+calendar_month
+Jul 07, 2025
+
+How to Buy a Stock Ask price vs extrinsic price
+
+AlphaU 14 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+00:22:45
+
+calendar_month
+Jul 07, 2025
+
+How to Buy a Stock Mistakenly clicking Bid - Sell to Open
+
+AlphaU 14 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+00:25:27
+
+calendar_month
+Jul 07, 2025
+
+How to Buy a Stock Good Till Cancelled ( GTC ) vs Day
+
+AlphaU 14 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+00:28:45
+
+calendar_month
+Jul 07, 2025
+
+How to Buy a Stock Limit price adjustment
+
+AlphaU 14 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+00:29:58
+
+calendar_month
+Jul 07, 2025
+
+How to Buy a Stock Sell to Close
+
+AlphaU 14 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+00:31:40
+
+calendar_month
+Jul 07, 2025
+
+How to Buy a Stock Daily trade review
+
+AlphaU 14 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+00:35:09
+
+calendar_month
+Jul 07, 2025
+
+How to Buy a Stock Sell to Close DT
+
+AlphaU 14 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+00:36:35
+
+calendar_month
+Jul 07, 2025
+
+How to Buy a Stock Sell to Close DVN
+
+AlphaU 14 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+00:39:49
+
+calendar_month
+Jul 07, 2025
+
+How to Buy a Stock Emotional toll of a loss
+
+AlphaU 14 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+00:41:30
+
+calendar_month
+Jul 07, 2025
+
+How to Buy a Stock Trading in Think or Swim ( ToS )
+
+AlphaU 14 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+00:53:31
+
+calendar_month
+Jul 07, 2025
+
+How to Buy a Stock Tradier Sell to Close and rolling the trade
+
+AlphaU 14 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+01:03:18
+
+calendar_month
+Jul 07, 2025
+
+Tradier
+
+AlphaU 02 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+00:15:06
+
+calendar_month
+May 15, 2025
+
+Tradier Close a losing trade with limit order
+
+AlphaU 12 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+00:34:21
+
+calendar_month
+Jun 26, 2025
+
+Tradier Roll the winning trade
+
+AlphaU 12 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+00:41:27
+
+calendar_month
+Jun 26, 2025
+
+Load More 
+Features
+About Us
+Coverage List
+Community
+Pricing
+Affiliates
+Blog
+Roadmap
+Sitemap
+Socials
+Instagram
+Twitter
+Facebook
+
+©2025 OVTLYR. All Rights Reserved
+
+Privacy Policy
+Terms of Use
+Sub-item click: clicked: Portfolio Manager
+
+--- Sub-topic: "Portfolio Manager" ---
+onship Trades
+Publication Period
+Last Month
+Last 3 Months
+Last 6 Months
+Last Year
+All
+instant_mix
+Plan M Portfolio Manager updates ticker GOOG
+
+USIC038 79% Single Trade Profit - Ovtlyr 2026 US Investing Championship Trades 04/29/2026 - 2026 US Investing Championship Trades
+
+play_circle
+Watch Video
+-
+00:12:45
+
+calendar_month
+May 02, 2026
+1
+
+Features
+About Us
+Coverage List
+Community
+Pricing
+Affiliates
+Blog
+Roadmap
+Sitemap
+Socials
+Instagram
+Twitter
+Facebook
+
+©2025 OVTLYR. All Rights Reserved
+
+Privacy Policy
+Terms of Use
+Sub-item click: clicked: Ovtlyr
+
+--- Sub-topic: "Ovtlyr" ---
+dance
+Options Trading
+Publication Period
+Last Month
+Last 3 Months
+Last 6 Months
+Last Year
+All
+instant_mix
+Ovtlyr University
+
+Welcome to Your First Bearish Trend Inside a Bull Market! - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:17:59
+
+calendar_month
+Nov 17, 2025
+3
+
+Alpha vs Bravo University
+
+$88,000 to $415,000,000? Are Options Trades Right For You? - Options Trading
+
+play_circle
+Watch Video
+-
+00:34:35
+
+calendar_month
+Dec 10, 2025
+
+Features
+About Us
+Coverage List
+Community
+Pricing
+Affiliates
+Blog
+Roadmap
+Sitemap
+Socials
+Instagram
+Twitter
+Facebook
+
+©2025 OVTLYR. All Rights Reserved
+
+Privacy Policy
+Terms of Use
+Sub-item click: clicked: thinkorswim
+
+--- Sub-topic: "thinkorswim" ---
+ding Guidance
+Ovtlyr thinkorswim
+Ovtlyr New Customer Orientation
+Publication Period
+Last Month
+Last 3 Months
+Last 6 Months
+Last Year
+All
+instant_mix
+Thinkorswim FlexibleGrid
+
+Ovtlyr Thinkorswim Indicator Trading Session 4 2026/04/02 - Ovtlyr thinkorswim
+
+play_circle
+Watch Video
+-
+00:13:00
+
+calendar_month
+Apr 02, 2026
+1
+
+Thinkorswim Customize grid
+
+Ovtlyr Thinkorswim Indicator Trading Session 4 2026/04/02 - Ovtlyr thinkorswim
+
+play_circle
+Watch Video
+-
+00:19:00
+
+calendar_month
+Apr 02, 2026
+
+Thinkorswim Review ticker VIX
+
+Ovtlyr Thinkorswim Indicator Trading Session 4 2026/04/02 - Ovtlyr thinkorswim
+
+play_circle
+Watch Video
+-
+00:19:45
+
+calendar_month
+Apr 02, 2026
+
+Thinkorswim Dollar strength
+
+Ovtlyr Thinkorswim Indicator Trading Session 4 2026/04/02 - Ovtlyr thinkorswim
+
+play_circle
+Watch Video
+-
+00:20:00
+
+calendar_month
+Apr 02, 2026
+
+Thinkorswim Support vs Resistance order blocks
+
+Ovtlyr Thinkorswim Indicator Trading Session 4 2026/04/02 - Ovtlyr thinkorswim
+
+play_circle
+Watch Video
+-
+00:20:15
+
+calendar_month
+Apr 02, 2026
+
+Thinkorswim Thinkorswim options chain view
+
+Ovtlyr Thinkorswim Indicator Trading Session 4 2026/04/02 - Ovtlyr thinkorswim
+
+play_circle
+Watch Video
+-
+00:22:00
+
+calendar_month
+Apr 02, 2026
+
+Thinkorswim Open interest vs price across strikes
+
+Ovtlyr Thinkorswim Indicator Trading Session 4 2026/04/02 - Ovtlyr thinkorswim
+
+play_circle
+Watch Video
+-
+00:23:00
+
+calendar_month
+Apr 02, 2026
+
+Thinkorswim Open interest and volume
+
+Ovtlyr Thinkorswim Indicator Trading Session 4 2026/04/02 - Ovtlyr thinkorswim
+
+play_circle
+Watch Video
+-
+00:25:00
+
+calendar_month
+Apr 02, 2026
+
+Thinkorswim Color linking within thinkorswim
+
+Ovtlyr Thinkorswim Indicator Trading Session 4 2026/04/02 - Ovtlyr thinkorswim
+
+play_circle
+Watch Video
+-
+00:20:30
+
+calendar_month
+Apr 02, 2026
+
+Thinkorswim Options criteria and expiration
+
+Ovtlyr Thinkorswim Indicator Trading Session 4 2026/04/02 - Ovtlyr thinkorswim
+
+play_circle
+Watch Video
+-
+00:28:00
+
+calendar_month
+Apr 02, 2026
+
+Thinkorswim Expiration and delta
+
+Ovtlyr Thinkorswim Indicator Trading Session 4 2026/04/02 - Ovtlyr thinkorswim
+
+play_circle
+Watch Video
+-
+00:32:00
+
+calendar_month
+Apr 02, 2026
+
+Thinkorswim 60 to 80 delta and rolling to a new strike
+
+Ovtlyr Thinkorswim Indicator Trading Session 4 2026/04/02 - Ovtlyr thinkorswim
+
+play_circle
+Watch Video
+-
+00:33:00
+
+calendar_month
+Apr 02, 2026
+
+Thinkorswim Paralysis by analysis
+
+Ovtlyr Thinkorswim Indicator Trading Session 4 2026/04/02 - Ovtlyr thinkorswim
+
+play_circle
+Watch Video
+-
+00:35:00
+
+calendar_month
+Apr 02, 2026
+
+Thinkorswim Overnight data points
+
+Ovtlyr Thinkorswim Indicator Trading Session 4 2026/04/02 - Ovtlyr thinkorswim
+
+play_circle
+Watch Video
+-
+00:39:00
+
+calendar_month
+Apr 02, 2026
+
+Thinkorswim Trading the first 30 minutes of the market open
+
+Ovtlyr Thinkorswim Indicator Trading Session 4 2026/04/02 - Ovtlyr thinkorswim
+
+play_circle
+Watch Video
+-
+00:39:30
+
+calendar_month
+Apr 02, 2026
+
+Thinkorswim Fibonacci retracement
+
+Ovtlyr Thinkorswim Indicator Trading Session 4 2026/04/02 - Ovtlyr thinkorswim
+
+play_circle
+Watch Video
+-
+00:41:00
+
+calendar_month
+Apr 02, 2026
+
+Thinkorswim Trading indices
+
+Ovtlyr Thinkorswim Indicator Trading Session 4 2026/04/02 - Ovtlyr thinkorswim
+
+play_circle
+Watch Video
+-
+00:42:15
+
+calendar_month
+Apr 02, 2026
+
+Rolling ticker INTC
+
+Ovtlyr Thinkorswim Trade Rolling Training Session 5 2026/04/16 - Ovtlyr thinkorswim
+
+play_circle
+Watch Video
+-
+00:11:00
+
+calendar_month
+Apr 20, 2026
+
+Forcing the spread setting to vertical
+
+Ovtlyr Thinkorswim Trade Rolling Training Session 5 2026/04/16 - Ovtlyr thinkorswim
+
+play_circle
+Watch Video
+-
+00:14:00
+
+calendar_month
+Apr 20, 2026
+
+Broker price improvement
+
+Ovtlyr Thinkorswim Trade Rolling Training Session 5 2026/04/16 - Ovtlyr thinkorswim
+
+play_circle
+Watch Video
+-
+00:19:00
+
+calendar_month
+Apr 20, 2026
+
+Load More 
+Features
+About Us
+Coverage List
+Community
+Pricing
+Affiliates
+Blog
+Roadmap
+Sitemap
+Socials
+Instagram
+Twitter
+Facebook
+
+©2025 OVTLYR. All Rights Reserved
+
+Privacy Policy
+Terms of Use
+Sub-item click: clicked: Discord
+
+--- Sub-topic: "Discord" ---
+ Guidance
+Options Trading
+OVTLYR Training
+Ovtlyr thinkorswim
+2026 US Investing Championship Trades
+Ovtlyr New Customer Orientation
+Publication Period
+Last Month
+Last 3 Months
+Last 6 Months
+Last Year
+All
+instant_mix
+Accessing Discord
+
+Catching stock price trends: Ovtlyr first steps - OVTLYR Training
+
+play_circle
+Watch Video
+-
+00:02:50
+
+calendar_month
+Nov 09, 2025
+4
+
+Training category
+
+Catching stock price trends: Ovtlyr first steps - OVTLYR Training
+
+play_circle
+Watch Video
+-
+00:03:24
+
+calendar_month
+Nov 09, 2025
+
+Discord verification
+
+Catching stock price trends: Ovtlyr first steps - OVTLYR Training
+
+play_circle
+Watch Video
+-
+00:03:55
+
+calendar_month
+Nov 09, 2025
+1
+
+Trading plans
+
+Catching stock price trends: Ovtlyr first steps - OVTLYR Training
+
+play_circle
+Watch Video
+-
+00:04:38
+
+calendar_month
+Nov 09, 2025
+1
+
+Live stream links
+
+Catching stock price trends: Ovtlyr first steps - OVTLYR Training
+
+play_circle
+Watch Video
+-
+00:05:22
+
+calendar_month
+Nov 09, 2025
+
+Starting the daily review
+
+Catching stock price trends: Ovtlyr first steps - OVTLYR Training
+
+play_circle
+Watch Video
+-
+00:06:48
+
+calendar_month
+Nov 09, 2025
+
+Access the slide deck
+
+OVTLYR PLAN TRAINING - OVTLYR Training
+
+play_circle
+Watch Video
+-
+00:08:08
+
+calendar_month
+Oct 21, 2025
+
+Accessing Discord
+
+Ovtlyr Signals Identify Trend Changes - OVTLYR Training
+
+play_circle
+Watch Video
+-
+00:00:15
+
+calendar_month
+Nov 21, 2025
+
+Location of historic trade details
+
+$88,000 to $415,000,000? Are Options Trades Right For You? - Options Trading
+
+play_circle
+Watch Video
+-
+00:41:30
+
+calendar_month
+Dec 10, 2025
+
+Where do I find the Plan ETF slides?
+
+Ovtlyr Signals Identify Trend Changes - OVTLYR Training
+
+play_circle
+Watch Video
+-
+00:00:45
+
+calendar_month
+Nov 21, 2025
+
+Locating channels in Discord
+
+$88,000 to $415,000,000? Are Options Trades Right For You? - Options Trading
+
+play_circle
+Watch Video
+-
+00:28:00
+
+calendar_month
+Dec 10, 2025
+1
+
+Trading plan resource location
+
+Protect Your Portfolio During a Bearish Trend - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:20:14
+
+calendar_month
+Nov 21, 2025
+
+Accessing DeepThought indiactor
+
+How to Avoid False Breakouts My Stock Trend Trading Technique - 02/09/2026 - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:02:00
+
+calendar_month
+Feb 03, 2026
+
+Accessing the Ovtlyr plans and slides
+
+Ovtlyr Thinkorswim Custom Indicator Session 2 Plus TradingView 2026/02/03 - Ovtlyr thinkorswim
+
+play_circle
+Watch Video
+-
+00:04:45
+
+calendar_month
+Feb 03, 2026
+
+Discord FAQ and Member Contributions channel
+
+Ovtlyr Thinkorswim Custom Indicator Session 2 Plus TradingView 2026/02/03 - Ovtlyr thinkorswim
+
+play_circle
+Watch Video
+-
+00:05:15
+
+calendar_month
+Feb 03, 2026
+
+Ovtlyr Discord Thinkorswim resources
+
+Ovtlyr Thinkorswim Custom Indicator Session 2 Plus TradingView 2026/02/03 - Ovtlyr thinkorswim
+
+play_circle
+Watch Video
+-
+00:05:30
+
+calendar_month
+Feb 03, 2026
+
+Accessing Ovtlyr Value Zone and DeepThought indicators
+
+USIC016 How May Fed Rates Impact Ovtlyr 2026 US Investing Championship Trades 1/28/2026 - 2026 US Investing Championship Trades
+
+play_circle
+Watch Video
+-
+00:07:45
+
+calendar_month
+Jan 28, 2026
+
+Accessing Discord
+
+001 Start Your Stock Tend Trading Journey with Session 1 of OVTLYR Customer Launchpad 2.12.2026 - OVTLYR Training
+
+play_circle
+Watch Video
+-
+00:04:30
+
+calendar_month
+Feb 12, 2026
+
+Discord verification
+
+001 Start Your Stock Tend Trading Journey with Session 1 of OVTLYR Customer Launchpad 2.12.2026 - OVTLYR Training
+
+play_circle
+Watch Video
+-
+00:04:45
+
+calendar_month
+Feb 12, 2026
+
+Accessing the Training category within OVTLYR Discord
+
+001 Start Your Stock Tend Trading Journey with Session 1 of OVTLYR Customer Launchpad 2.12.2026 - OVTLYR Training
+
+play_circle
+Watch Video
+-
+00:07:00
+
+calendar_month
+Feb 12, 2026
+
+Load More 
+Features
+About Us
+Coverage List
+Community
+Pricing
+Affiliates
+Blog
+Roadmap
+Sitemap
+Socials
+Instagram
+Twitter
+Facebook
+
+©2025 OVTLYR. All Rights Reserved
+
+Privacy Policy
+Terms of Use
+Sub-item click: clicked: Ovtlyr Training with Joe
+
+--- Sub-topic: "Ovtlyr Training with Joe" ---
+d Options Trading Guidance
+OVTLYR Training
+Ovtlyr thinkorswim
+2026 US Investing Championship Trades
+OVTLYR How-to Guides
+Ovtlyr New Customer Orientation
+Publication Period
+Last Month
+Last 3 Months
+Last 6 Months
+Last Year
+All
+instant_mix
+OVTLYR Thinkorswim and TradingView charting help
+
+001 Start Your Stock Tend Trading Journey with Session 1 of OVTLYR Customer Launchpad 2.12.2026 - OVTLYR Training
+
+play_circle
+Watch Video
+-
+00:21:00
+
+calendar_month
+Feb 12, 2026
+2
+
+Training video timestamps
+
+001 Start Your Stock Tend Trading Journey with Session 1 of OVTLYR Customer Launchpad 2.12.2026 - OVTLYR Training
+
+play_circle
+Watch Video
+-
+00:17:00
+
+calendar_month
+Feb 12, 2026
+
+Accessing 2026 US Investing Championship trades and OVTLYR slides
+
+001 Start Your Stock Tend Trading Journey with Session 1 of OVTLYR Customer Launchpad 2.12.2026 - OVTLYR Training
+
+play_circle
+Watch Video
+-
+00:56:00
+
+calendar_month
+Feb 12, 2026
+
+Ovtlyr Training videos
+
+002 Meet Ovtlyr Alpha & Bravo University Graduates in Session 2 of OVTLYR Launchpad 3.6.2026 - OVTLYR Training
+
+play_circle
+Watch Video
+-
+00:12:00
+
+calendar_month
+Mar 06, 2026
+
+Ovtlyr How-to videos
+
+002 Meet Ovtlyr Alpha & Bravo University Graduates in Session 2 of OVTLYR Launchpad 3.6.2026 - OVTLYR Training
+
+play_circle
+Watch Video
+-
+00:12:30
+
+calendar_month
+Mar 06, 2026
+
+Ovtlyr Training videos
+
+002 Meet Ovtlyr Alpha & Bravo University Graduates in Session 2 of OVTLYR Launchpad 3.6.2026 - OVTLYR Training
+
+play_circle
+Watch Video
+-
+00:13:00
+
+calendar_month
+Mar 06, 2026
+
+Setup your charts like a pro
+
+002 Meet Ovtlyr Alpha & Bravo University Graduates in Session 2 of OVTLYR Launchpad 3.6.2026 - OVTLYR Training
+
+play_circle
+Watch Video
+-
+00:16:00
+
+calendar_month
+Mar 06, 2026
+
+Alpha University playlist
+
+002 Meet Ovtlyr Alpha & Bravo University Graduates in Session 2 of OVTLYR Launchpad 3.6.2026 - OVTLYR Training
+
+play_circle
+Watch Video
+-
+00:17:00
+
+calendar_month
+Mar 06, 2026
+1
+
+Bravo University playlist
+
+002 Meet Ovtlyr Alpha & Bravo University Graduates in Session 2 of OVTLYR Launchpad 3.6.2026 - OVTLYR Training
+
+play_circle
+Watch Video
+-
+00:18:00
+
+calendar_month
+Mar 06, 2026
+
+Trading plan changes
+
+002 Meet Ovtlyr Alpha & Bravo University Graduates in Session 2 of OVTLYR Launchpad 3.6.2026 - OVTLYR Training
+
+play_circle
+Watch Video
+-
+00:18:30
+
+calendar_month
+Mar 06, 2026
+
+Options training videos
+
+002 Meet Ovtlyr Alpha & Bravo University Graduates in Session 2 of OVTLYR Launchpad 3.6.2026 - OVTLYR Training
+
+play_circle
+Watch Video
+-
+00:19:00
+
+calendar_month
+Mar 06, 2026
+
+Risk profile training
+
+002 Meet Ovtlyr Alpha & Bravo University Graduates in Session 2 of OVTLYR Launchpad 3.6.2026 - OVTLYR Training
+
+play_circle
+Watch Video
+-
+00:45:00
+
+calendar_month
+Mar 06, 2026
+2
+
+USIC videos
+
+002 Meet Ovtlyr Alpha & Bravo University Graduates in Session 2 of OVTLYR Launchpad 3.6.2026 - OVTLYR Training
+
+play_circle
+Watch Video
+-
+00:46:00
+
+calendar_month
+Mar 06, 2026
+
+Interviewing US Investing Championship winners
+
+002 Meet Ovtlyr Alpha & Bravo University Graduates in Session 2 of OVTLYR Launchpad 3.6.2026 - OVTLYR Training
+
+play_circle
+Watch Video
+-
+00:40:00
+
+calendar_month
+Mar 06, 2026
+
+Backtesting
+
+002 Meet Ovtlyr Alpha & Bravo University Graduates in Session 2 of OVTLYR Launchpad 3.6.2026 - OVTLYR Training
+
+play_circle
+Watch Video
+-
+00:50:00
+
+calendar_month
+Mar 06, 2026
+
+Alpha University session favorites
+
+003 University Graduates Locate Trend Trading Resources in Session 3 of OVTLYR Launchpad 2026.03.19 - OVTLYR Training
+
+play_circle
+Watch Video
+-
+00:36:30
+
+calendar_month
+Mar 19, 2026
+
+Bravo University session favorites
+
+003 University Graduates Locate Trend Trading Resources in Session 3 of OVTLYR Launchpad 2026.03.19 - OVTLYR Training
+
+play_circle
+Watch Video
+-
+00:39:15
+
+calendar_month
+Mar 19, 2026
+
+Ovtlyr Thinkorswim training
+
+003 University Graduates Locate Trend Trading Resources in Session 3 of OVTLYR Launchpad 2026.03.19 - OVTLYR Training
+
+play_circle
+Watch Video
+-
+00:21:45
+
+calendar_month
+Mar 19, 2026
+
+What is Ovtlyr University
+
+003 University Graduates Locate Trend Trading Resources in Session 3 of OVTLYR Launchpad 2026.03.19 - OVTLYR Training
+
+play_circle
+Watch Video
+-
+00:13:00
+
+calendar_month
+Mar 19, 2026
+
+What is a market maker
+
+003 University Graduates Locate Trend Trading Resources in Session 3 of OVTLYR Launchpad 2026.03.19 - OVTLYR Training
+
+play_circle
+Watch Video
+-
+00:16:45
+
+calendar_month
+Mar 19, 2026
+
+Load More 
+Features
+About Us
+Coverage List
+Community
+Pricing
+Affiliates
+Blog
+Roadmap
+Sitemap
+Socials
+Instagram
+Twitter
+Facebook
+
+©2025 OVTLYR. All Rights Reserved
+
+Privacy Policy
+Terms of Use
+Sub-item click: clicked: TradingView
+
+--- Sub-topic: "TradingView" ---
+ding Guidance
+2026 US Investing Championship Trades
+Ovtlyr New Customer Orientation
+Publication Period
+Last Month
+Last 3 Months
+Last 6 Months
+Last Year
+All
+instant_mix
+Importing TradingView scripts through Favorites
+
+Protect Your Portfolio During a Bearish Trend - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:02:49
+
+calendar_month
+Nov 21, 2025
+8
+
+Accessing TradingView indicators
+
+Reduce Stock Trade Risk With this Ninja Hack - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:30:00
+
+calendar_month
+Feb 02, 2026
+4
+
+Chris' DeepThought indicator settings
+
+Reduce Stock Trade Risk With this Ninja Hack - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:31:00
+
+calendar_month
+Feb 02, 2026
+1
+
+TradingView Average True Range ATR indicator
+
+Reduce Stock Trade Risk With this Ninja Hack - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:31:30
+
+calendar_month
+Feb 02, 2026
+1
+
+Marking charts for ATR signals on TradingView
+
+004 Locating Stock Trend Trading Resources in Session 4 of OVTLYR Launchpad 2026.04.23 - Ovtlyr New Customer Orientation
+
+play_circle
+Watch Video
+-
+00:11:00
+
+calendar_month
+Apr 26, 2026
+
+Gann box
+
+004 Locating Stock Trend Trading Resources in Session 4 of OVTLYR Launchpad 2026.04.23 - Ovtlyr New Customer Orientation
+
+play_circle
+Watch Video
+-
+00:21:15
+
+calendar_month
+Apr 26, 2026
+
+DeepThought indicator settings
+
+004 Locating Stock Trend Trading Resources in Session 4 of OVTLYR Launchpad 2026.04.23 - Ovtlyr New Customer Orientation
+
+play_circle
+Watch Video
+-
+00:23:00
+
+calendar_month
+Apr 26, 2026
+
+TradingView daily ATR indicator
+
+USIC033 Your Trading Questions Answered - Ovtlyr 2026 US Investing Championship Trades 04/22/2026 - 2026 US Investing Championship Trades
+
+play_circle
+Watch Video
+-
+00:32:45
+
+calendar_month
+Apr 24, 2026
+
+Reviewing ticker BX
+
+USIC034 Reducing Risk and Taking Profits - Ovtlyr 2026 US Investing Championship Trades 04/23/2026 - 2026 US Investing Championship Trades
+
+play_circle
+Watch Video
+-
+00:01:45
+
+calendar_month
+Apr 25, 2026
+
+Reviewing ticker TXN
+
+USIC034 Reducing Risk and Taking Profits - Ovtlyr 2026 US Investing Championship Trades 04/23/2026 - 2026 US Investing Championship Trades
+
+play_circle
+Watch Video
+-
+00:02:45
+
+calendar_month
+Apr 25, 2026
+
+Reviewing ticker NFLX
+
+USIC034 Reducing Risk and Taking Profits - Ovtlyr 2026 US Investing Championship Trades 04/23/2026 - 2026 US Investing Championship Trades
+
+play_circle
+Watch Video
+-
+00:03:15
+
+calendar_month
+Apr 25, 2026
+
+Reviewing ticker MRVL
+
+004 Locating Stock Trend Trading Resources in Session 4 of OVTLYR Launchpad 2026.04.23 - Ovtlyr New Customer Orientation
+
+play_circle
+Watch Video
+-
+00:32:00
+
+calendar_month
+Apr 26, 2026
+
+Order blocks are not appearing in thinkorswim, Ovtlyr, or Tradingview
+
+004 Locating Stock Trend Trading Resources in Session 4 of OVTLYR Launchpad 2026.04.23 - Ovtlyr New Customer Orientation
+
+play_circle
+Watch Video
+-
+00:34:00
+
+calendar_month
+Apr 26, 2026
+
+Reviewing ticker MRVL
+
+004 Locating Stock Trend Trading Resources in Session 4 of OVTLYR Launchpad 2026.04.23 - Ovtlyr New Customer Orientation
+
+play_circle
+Watch Video
+-
+00:36:00
+
+calendar_month
+Apr 26, 2026
+
+Features
+About Us
+Coverage List
+Community
+Pricing
+Affiliates
+Blog
+Roadmap
+Sitemap
+Socials
+Instagram
+Twitter
+Facebook
+
+©2025 OVTLYR. All Rights Reserved
+
+Privacy Policy
+Terms of Use
+Sub-item click: clicked: Nuance or Misc
+
+--- Sub-topic: "Nuance or Misc" ---
+lpha
+Ovtlyr University - Bravo
+Stock and Options Trading Guidance
+Options Trading
+OVTLYR Training
+2026 US Investing Championship Trades
+Retired Content
+Publication Period
+Last Month
+Last 3 Months
+Last 6 Months
+Last Year
+All
+instant_mix
+Impact of market announcements Shelf offering
+
+AlphaU 12 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+00:07:54
+
+calendar_month
+Jun 26, 2025
+
+Trading foreign stocks
+
+AlphaU 08 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+01:09:25
+
+calendar_month
+Jun 05, 2025
+
+Wash sale
+
+AlphaU 12 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+00:46:55
+
+calendar_month
+Jun 26, 2025
+
+Ovtlyr Testimonials
+
+AlphaU 06 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+01:13:20
+
+calendar_month
+May 29, 2025
+
+MikeyMike's trading process
+
+AlphaU 18 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+00:02:13
+
+calendar_month
+Jul 22, 2025
+
+Location of stock screener filter worksheet
+
+AlphaU 18 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+00:44:10
+
+calendar_month
+Jul 22, 2025
+
+We Make Millionaires - Alpha Wrap Up
+
+AlphaU 21 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+
+calendar_month
+Aug 07, 2025
+
+Mark's example plan for ETF, stocks, and options
+
+BravoU 07 - Ovtlyr University - Bravo
+
+play_circle
+Watch Video
+-
+00:02:20
+
+calendar_month
+Dec 09, 2025
+
+Carol's example plan
+
+BravoU 07 - Ovtlyr University - Bravo
+
+play_circle
+Watch Video
+-
+00:16:15
+
+calendar_month
+Dec 09, 2025
+
+Carol's risk percentage
+
+BravoU 07 - Ovtlyr University - Bravo
+
+play_circle
+Watch Video
+-
+00:19:20
+
+calendar_month
+Dec 09, 2025
+
+Checking volume - money flow index indicator within TradingView
+
+BravoU 07 - Ovtlyr University - Bravo
+
+play_circle
+Watch Video
+-
+00:22:35
+
+calendar_month
+Dec 09, 2025
+
+William's example plan
+
+BravoU 07 - Ovtlyr University - Bravo
+
+play_circle
+Watch Video
+-
+00:25:35
+
+calendar_month
+Dec 09, 2025
+
+William's bid ask spread percentage
+
+BravoU 07 - Ovtlyr University - Bravo
+
+play_circle
+Watch Video
+-
+00:32:55
+
+calendar_month
+Dec 09, 2025
+
+William's risk percentage & trailing stop loss
+
+BravoU 07 - Ovtlyr University - Bravo
+
+play_circle
+Watch Video
+-
+00:37:24
+
+calendar_month
+Dec 09, 2025
+
+Unexpected trading events to account for
+
+BravoU 07 - Ovtlyr University - Bravo
+
+play_circle
+Watch Video
+-
+00:40:25
+
+calendar_month
+Dec 09, 2025
+
+Art's example plan
+
+BravoU 07 - Ovtlyr University - Bravo
+
+play_circle
+Watch Video
+-
+00:41:35
+
+calendar_month
+Dec 09, 2025
+
+The open interest debate
+
+BravoU 07 - Ovtlyr University - Bravo
+
+play_circle
+Watch Video
+-
+00:44:35
+
+calendar_month
+Dec 09, 2025
+
+Fear and greed heatmap signals
+
+BravoU 07 - Ovtlyr University - Bravo
+
+play_circle
+Watch Video
+-
+00:47:35
+
+calendar_month
+Dec 09, 2025
+
+Art's ETF rules and 10 EMA
+
+BravoU 07 - Ovtlyr University - Bravo
+
+play_circle
+Watch Video
+-
+00:54:25
+
+calendar_month
+Dec 09, 2025
+
+Accessing 2026 USIC trade history
+
+Choosing an Options Contract - Options Trading
+
+play_circle
+Watch Video
+-
+00:15:00
+
+calendar_month
+Jan 14, 2026
+
+Load More 
+Features
+About Us
+Coverage List
+Community
+Pricing
+Affiliates
+Blog
+Roadmap
+Sitemap
+Socials
+Instagram
+Twitter
+Facebook
+
+©2025 OVTLYR. All Rights Reserved
+
+Privacy Policy
+Terms of Use
+Sub-item click: clicked: Fundamentals
+
+--- Sub-topic: "Fundamentals" ---
+ng Guidance
+Publication Period
+Last Month
+Last 3 Months
+Last 6 Months
+Last Year
+All
+instant_mix
+Don't by the dip
+
+Every Stock Market Downturn Has This Signal 02/13/2026 - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:03:15
+
+calendar_month
+Feb 13, 2026
+3
+
+Features
+About Us
+Coverage List
+Community
+Pricing
+Affiliates
+Blog
+Roadmap
+Sitemap
+Socials
+Instagram
+Twitter
+Facebook
+
+©2025 OVTLYR. All Rights Reserved
+
+Privacy Policy
+Terms of Use
+
+============================================================
+SECTION: Trading Psychology
+============================================================
+Section click: clicked help
+Trading Psychology
+keyboard_arrow_d
+Sub-items: [ 'Theory and Emotion', 'Fundamentals', 'Books' ]
+Sub-item click: clicked: Theory and Emotion
+
+--- Sub-topic: "Theory and Emotion" ---
+ading
+OVTLYR Training
+Ovtlyr thinkorswim
+2026 US Investing Championship Trades
+Trading Psychology
+Retired Content
+Publication Period
+Last Month
+Last 3 Months
+Last 6 Months
+Last Year
+All
+instant_mix
+Market wizards
+
+AlphaU 01 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+00:11:07
+
+calendar_month
+May 13, 2025
+68
+
+Ignoring the noise
+
+AlphaU 06 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+00:58:10
+
+calendar_month
+May 29, 2025
+12
+
+Your money
+
+AlphaU 06 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+01:03:22
+
+calendar_month
+May 29, 2025
+10
+
+Fear of Missing Out FOMO
+
+AlphaU 06 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+01:07:44
+
+calendar_month
+May 29, 2025
+5
+
+Stick to your plan
+
+AlphaU 07 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+00:13:34
+
+calendar_month
+Jun 03, 2025
+3
+
+Separate yourself from the outcome
+
+AlphaU 07 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+00:15:42
+
+calendar_month
+Jun 03, 2025
+1
+
+Repeating the same mistakes
+
+AlphaU 07 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+00:16:54
+
+calendar_month
+Jun 03, 2025
+
+90/90/90 rule
+
+AlphaU 07 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+00:17:41
+
+calendar_month
+Jun 03, 2025
+3
+
+Flip the script
+
+AlphaU 07 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+00:18:22
+
+calendar_month
+Jun 03, 2025
+
+Personal stories of account mishaps
+
+AlphaU 07 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+00:19:00
+
+calendar_month
+Jun 03, 2025
+1
+
+Biases
+
+AlphaU 07 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+00:27:13
+
+calendar_month
+Jun 03, 2025
+1
+
+Fear of missing out
+
+AlphaU 07 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+00:54:28
+
+calendar_month
+Jun 03, 2025
+2
+
+Expectations and profit targets
+
+AlphaU 07 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+01:11:45
+
+calendar_month
+Jun 03, 2025
+2
+
+Graduating from paper trades
+
+AlphaU 08 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+01:10:35
+
+calendar_month
+Jun 05, 2025
+1
+
+Planned exit point action
+
+AlphaU 09 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+00:37:28
+
+calendar_month
+Jun 10, 2025
+6
+
+3 doors and a lambo theory
+
+AlphaU 12 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+00:02:00
+
+calendar_month
+Jun 26, 2025
+
+Stop winners from turning into losers
+
+AlphaU 12 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+00:03:30
+
+calendar_month
+Jun 26, 2025
+1
+
+Emotional impact of losing trades
+
+AlphaU 12 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+00:06:04
+
+calendar_month
+Jun 26, 2025
+
+Have a plan with no expectation
+
+AlphaU 12 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+00:24:56
+
+calendar_month
+Jun 26, 2025
+2
+
+How much money can I make trading
+
+AlphaU 13 - Ovtlyr University - Alpha
+
+play_circle
+Watch Video
+-
+00:23:39
+
+calendar_month
+Jul 01, 2025
+2
+
+Load More 
+Features
+About Us
+Coverage List
+Community
+Pricing
+Affiliates
+Blog
+Roadmap
+Sitemap
+Socials
+Instagram
+Twitter
+Facebook
+
+©2025 OVTLYR. All Rights Reserved
+
+Privacy Policy
+Terms of Use
+Sub-item click: clicked: Fundamentals
+
+--- Sub-topic: "Fundamentals" ---
+All
+instant_mix
+Don't by the dip
+
+Every Stock Market Downturn Has This Signal 02/13/2026 - Stock and Options Trading Guidance
+
+play_circle
+Watch Video
+-
+00:03:15
+
+calendar_month
+Feb 13, 2026
+3
+
+Features
+About Us
+Coverage List
+Community
+Pricing
+Affiliates
+Blog
+Roadmap
+Sitemap
+Socials
+Instagram
+Twitter
+Facebook
+
+©2025 OVTLYR. All Rights Reserved
+
+Privacy Policy
+Terms of Use
+Sub-item click: clicked: Books
+
+--- Sub-topic: "Books" ---
+instant_mix
+Trading in the Zone by Mark Douglas
+
+USIC030 Excitement & Euphoria of Winning - Ovtlyr 2026 US Investing Championship Trades 04/17/2026 - 2026 US Investing Championship Trades
+
+play_circle
+Watch Video
+-
+00:02:45
+
+calendar_month
+Apr 21, 2026
+4
+
+Features
+About Us
+Coverage List
+Community
+Pricing
+Affiliates
+Blog
+Roadmap
+Sitemap
+Socials
+Instagram
+Twitter
+Facebook
+
+©2025 OVTLYR. All Rights Reserved
+
+Privacy Policy
+Terms of Use
