@@ -8,10 +8,7 @@ async function getOvtlyrClient() {
   const targets = await resp.json();
   const target = targets.find(t => t.type === 'page' && /ovtlyr/i.test(t.url));
   if (!target) throw new Error('OVTLYR browser tab not found. Open console.ovtlyr.com first.');
-  const client = await CDP({ host: 'localhost', port: 9222, target: target.id });
-  await client.Runtime.enable();
-  await client.Page.enable();
-  return client;
+  return CDP({ host: 'localhost', port: 9222, target: target.id });
 }
 
 /** Poll document.body.innerText until a condition is met or timeout. */
@@ -114,13 +111,8 @@ export async function executeOvtlyrTool(name, input) {
       }
 
       case 'ovtlyr_screener': {
-        // Navigate to stocks-etfs to activate the auth session and set cookies
-        await client.Network.enable();
-        await client.Page.navigate({ url: 'https://console.ovtlyr.com/stocks-etfs' });
-        // Wait for the page and its auth cookies to fully load
-        await new Promise(r => setTimeout(r, 4000));
-
-        // Extract auth cookies from the browser session
+        // Extract auth cookies directly — getCookies() works on any OVTLYR page
+        // without needing Network.enable() or a page navigation.
         const cookiesResp = await client.Network.getCookies({ urls: ['https://console.ovtlyr.com'] });
         const cookieStr = cookiesResp.cookies.map(c => `${c.name}=${c.value}`).join('; ');
         if (!cookieStr) {
@@ -176,18 +168,26 @@ export async function executeOvtlyrTool(name, input) {
           isExport: false,
         };
 
-        const apiResp = await fetch('https://console.ovtlyr.com/stocks-etfs?handler=GetStocks', {
-          method: 'POST',
-          headers: {
-            'Content-Type': 'application/json',
-            'Cookie': cookieStr,
-            'X-Requested-With': 'XMLHttpRequest',
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
-            'Referer': 'https://console.ovtlyr.com/stocks-etfs',
-            'Origin': 'https://console.ovtlyr.com',
-          },
-          body: JSON.stringify(body),
-        });
+        const abort = new AbortController();
+        const abortTimer = setTimeout(() => abort.abort(), 15000);
+        let apiResp;
+        try {
+          apiResp = await fetch('https://console.ovtlyr.com/stocks-etfs?handler=GetStocks', {
+            method: 'POST',
+            signal: abort.signal,
+            headers: {
+              'Content-Type': 'application/json',
+              'Cookie': cookieStr,
+              'X-Requested-With': 'XMLHttpRequest',
+              'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+              'Referer': 'https://console.ovtlyr.com/stocks-etfs',
+              'Origin': 'https://console.ovtlyr.com',
+            },
+            body: JSON.stringify(body),
+          });
+        } finally {
+          clearTimeout(abortTimer);
+        }
 
         if (!apiResp.ok) {
           return `GetStocks API error: ${apiResp.status} ${apiResp.statusText}`;
