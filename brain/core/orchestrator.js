@@ -4,6 +4,7 @@
  */
 import { route, detectDomain } from './model-router.js';
 import { log as auditLog } from './audit.js';
+import { shouldBypass, get as cacheGet, set as cacheSet, evictExpired } from './response-cache.js';
 import { MarketAnalystAgent } from '../agents/market-analyst.js';
 import { ResearchAgent }      from '../agents/research-agent.js';
 import { RiskAgent }          from '../agents/risk-agent.js';
@@ -37,6 +38,31 @@ export async function run(task, opts = {}) {
   const { domain, complexity, model } = route(task, opts.domain);
   const agentName = domain === 'summary' ? 'Summary' : domain;
 
+  // Opportunistically evict stale cache entries (fast, non-blocking)
+  evictExpired();
+
+  // Cache lookup — skip for execution domain and bypass-keyword tasks
+  if (!opts.noCache && !shouldBypass(task, domain)) {
+    const cached = cacheGet(task, domain);
+    if (cached) {
+      if (opts.verbose !== false) {
+        console.log(`\n[Brain] Cache hit for: "${task.substring(0, 80)}"`);
+        console.log(`[Brain] Domain: ${domain} | Cached at: ${new Date(cached.at).toISOString()}\n${'─'.repeat(60)}`);
+        process.stdout.write(cached.result_text + '\n');
+      }
+      return {
+        text:       cached.result_text,
+        agent:      agentName,
+        model:      cached.model,
+        domain,
+        complexity,
+        tokens:     { input: 0, output: 0 },
+        duration_ms: 0,
+        fromCache:  true,
+      };
+    }
+  }
+
   if (opts.verbose !== false) {
     console.log(`\n[Brain] Task: "${task.substring(0, 80)}"`);
     console.log(`[Brain] Domain: ${domain} | Complexity: ${complexity}/5 | Model: ${model}`);
@@ -67,6 +93,11 @@ export async function run(task, opts = {}) {
   }
 
   const duration_ms = Date.now() - start;
+
+  // Store result in cache for future identical/similar tasks
+  if (!opts.noCache && !shouldBypass(task, domain) && result.text) {
+    cacheSet(task, domain, { ...result, model });
+  }
 
   // Audit log
   auditLog({
